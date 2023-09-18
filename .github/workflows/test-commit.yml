@@ -1,0 +1,26 @@
+name: Test Commit
+
+on:
+  push:
+    branches: ["master"]
+    paths-ignore: [".gitattributes", ".gitignore", "LICENSE"]
+
+jobs:
+    test-commit:
+        name: Test Commit
+        runs-on: self-hosted
+        if: "!contains(format('{0} {1}', github.event.head_commit.message, github.event.pull_request.title), '[ci-skip]')"
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v4
+          - name: Install dependencies
+            run: |
+                xbps-install go
+                go install github.com/packwiz/packwiz@latest
+          - name: Test commit
+            run: ~/go/bin/packwiz modrinth export -o Apollo.mrpack
+          - name: Upload Artifacts
+            uses: actions/upload-artifact@v2
+            with:
+                name: Apollo.mrpack
+                path: Apollo.mrpack
