@@ -12,8 +12,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Install dependencies
         run: |
-            xbps-install xbps -yu
-            xbps-install -Syu
+            xbps-install xbps -Syu
             xbps-install go -y
             go install github.com/packwiz/packwiz@latest
       - name: Test commit
