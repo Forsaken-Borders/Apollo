@@ -12,7 +12,9 @@ jobs:
         uses: actions/checkout@v4
       - name: Install dependencies
         run: |
-            xbps-install go
+            xbps-install xbps -yu
+            xbps-install -Syu
+            xbps-install go -y
             go install github.com/packwiz/packwiz@latest
       - name: Test commit
         run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ github.event.release.tag_name }}.mrpack"
