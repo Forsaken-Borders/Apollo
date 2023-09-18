@@ -1,0 +1,13 @@
+name = "No Netherite"
+filename = "nonetherite-v2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a83uLGIW/versions/EHRoi7ya/nonetherite-v2.jar"
+hash-format = "sha1"
+hash = "1087ead976aa3dc21b3ba970fe15deb1c539accb"
+
+[update]
+[update.modrinth]
+mod-id = "a83uLGIW"
+version = "EHRoi7ya"

@@ -1,0 +1,8 @@
+name = "Faithless OGTextures"
+filename = "Faithless OGTextures.zip"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/838900598417653760/1073718639141859398/OGTextures.zip"
+hash-format = "sha256"
+hash = "9cb07901f85609518a644baccc2e6748cedb7cd6444035a449e86451b4e8c70f"

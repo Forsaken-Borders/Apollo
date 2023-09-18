@@ -1,0 +1,8 @@
+name = "Faithless VanillaCTM"
+filename = "Faithless Vanilla CTM.zip"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/838900598417653760/1073718640433692752/VanillaCTM.zip"
+hash-format = "sha256"
+hash = "af4d5acb6793d3c35ad8d1bb49bfa8089e6465fa94d7339cf77b7c72a2c5689f"

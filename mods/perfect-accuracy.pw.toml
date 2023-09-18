@@ -1,0 +1,13 @@
+name = "Perfect Accuracy"
+filename = "PerfectAccuracy-1.2-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ochFsQSn/versions/1.2%2B1.19/PerfectAccuracy-1.2-1.19.jar"
+hash-format = "sha1"
+hash = "f82d19693bcec0e1217f9b3b20bc2d8aed51af07"
+
+[update]
+[update.modrinth]
+mod-id = "ochFsQSn"
+version = "yKEJB1nG"
