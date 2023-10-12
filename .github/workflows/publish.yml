@@ -25,3 +25,4 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          github-generate-changelog: false
