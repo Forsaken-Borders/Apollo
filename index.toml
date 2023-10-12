@@ -43,6 +43,11 @@ hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "65df20d0156ede8eefdedbcb297ee041f3e0d4058e957f3b7d52c509d9d07852"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -68,6 +73,11 @@ hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "7703705832bac583d57f9c7c4abf04a669273f3bbf047fb8b333b52e9f5bb3ed"
 metafile = true
@@ -80,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
 metafile = true
 
 [[files]]
@@ -108,8 +123,18 @@ hash = "a4a87e7580a1651f429af181e1be40a5b3c4b1969f80288c5199dcde91592ee7"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
+metafile = true
+
+[[files]]
 file = "mods/entity-view-distance.pw.toml"
 hash = "3c6da6f5070af0051e5764b13cd8fc19e2f6b60e0d21deeb8bd5728644f771ac"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
@@ -284,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ccb0703f0312bba5ea06400c723d20f8b35d0f291b3ddd207d15a004a55f8fa0"
+hash = "e9694ae44e4c3fd2b6e51eb950e12c70e15ee757d1ae104eaa166e64ff4b7c11"
 
 [[files]]
 file = "resourcepacks/faithless-mod-patch.pw.toml"
@@ -309,6 +334,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
 hash = "4b1a0406f992881c19222bc014d07da5dbec6e9aedd448f792fb6310c88571d0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
 
 [[files]]
