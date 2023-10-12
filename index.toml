@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7293ab05ee73400787ba9c31d4c59884d252dcc170880602e8e8da64dcf3f765"
+hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
 metafile = true
 
 [[files]]
@@ -79,12 +79,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "204b3eb115e418bdad4f5f2e8ef49f0c8b8f10ad062ca10e05e1e8cde4de45ab"
+hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
 metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "7c8c9835b5ba887fa98efaa0f013e9887bfc7beeca5e049615f87c97e1429020"
+hash = "ce970088dc03e31bb0c4eedba9c670fd597eb97fd75d0cc99b3b22c2268326a7"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8f7e28eb56a3f538cf2be43c03aea1c5b3017a5fe0429a6b67b052e0f6c0b5d4"
+hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "41b6ced96a53594eff35395e452dd2e67107e8b529a3f3724e80556ca31e71f0"
+hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
 metafile = true
 
 [[files]]
@@ -188,6 +188,11 @@ hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
 metafile = true
 
 [[files]]
+file = "mods/minimotd.pw.toml"
+hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
 metafile = true
@@ -239,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "e09588a0b5ef33734400440c75be761c35e3b5ee5ff3e20ac28a27e23dc6d9c2"
+hash = "92c3d918dd662006e6bd049d013a6489ea16020fc0b8f410c4793dca0e5a6190"
 metafile = true
 
 [[files]]
