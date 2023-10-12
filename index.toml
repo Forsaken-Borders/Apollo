@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "67c6a93fe15806f18b0ac8978317d3e8bef0f637a9a71b92d465bc7306e3d6bb"
+hash = "48ffa7a90f2394615a7d770bfe61a0415728a833c16304d92242cd97dcfaf5a2"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
-hash = "0f53c326d2b0a03a54a4c661ba1532fe81a12ecd9746a8e5ad152d0d6d06226c"
+hash = "2f0b110b1c96977158e3c6087784eadaaaf705d18961b3d4c4300fe5847dc07c"
 
 [[files]]
 file = "LICENSE"
