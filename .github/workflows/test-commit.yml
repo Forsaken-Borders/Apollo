@@ -14,9 +14,7 @@ jobs:
           - name: Checkout
             uses: actions/checkout@v4
           - name: Install dependencies
-            run: |
-                xbps-install go
-                go install github.com/packwiz/packwiz@latest
+            run: go install github.com/packwiz/packwiz@latest
           - name: Test commit
             run: ~/go/bin/packwiz modrinth export -o Apollo.mrpack
           - name: Upload Artifacts
