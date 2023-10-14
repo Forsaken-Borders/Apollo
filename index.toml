@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
+hash = "5a177a5206f562eb63c6aa1d3da06603298aa2e77a72c7a10b76da90d5af1781"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
 metafile = true
 
 [[files]]
