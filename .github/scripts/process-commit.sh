@@ -32,11 +32,13 @@ if [ ! -z "$new_semver" ]; then
   sed -i "s/version = \"$current_semver\"/version = \"$new_semver\"/g" pack.toml
   git diff-index --quiet HEAD
   if [ "$?" == "1" ]; then
+    git config --global user.email "lunar@forsaken-borders.net"
+    git config --global user.name "OoLunar"
     git add pack.toml > /dev/null
     git commit -m "Bump version to $new_semver." > /dev/null
 
     # Create a new tag
     git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
-    git push > /dev/null
+    git push --repo "https://$1@github.com/Forsaken-Borders/Apollo.git" > /dev/null
   fi
 fi
