@@ -6,7 +6,7 @@ hash = "58855c029d3d3b089dafd4979f10089612bc2f3f56ce6813933c8ce2999f73e1"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "6a117a49e637f0f616e3c57ad52f6b253f975eb52e39e7edc1d9f0f570aa685e"
+hash = "b6d06d1d4123efaa4812c3ccbbac129c1164ad81eb00e117b3c416f9770cef2e"
 
 [[files]]
 file = ".github/workflows/publish.yml"
@@ -14,7 +14,7 @@ hash = "5fcf895bfffffffac0c520b6c30769e9a903d44ed9f86967379f243f4c79393f"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
-hash = "f926f13da5a2a55004aaf509c0582c047ce9b399fa47b226707fbc4ea03632bb"
+hash = "45594e3d985b7f166caff92992fd1c923e7a59cd007f3af5fe3424f5b73c7d52"
 
 [[files]]
 file = "LICENSE"
