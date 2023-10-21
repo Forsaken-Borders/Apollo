@@ -15,10 +15,5 @@ jobs:
             uses: actions/checkout@v4
           - name: Install dependencies
             run: go install github.com/packwiz/packwiz@latest
-          - name: Test commit
-            run: ~/go/bin/packwiz modrinth export -o Apollo.mrpack
-          - name: Upload Artifacts
-            uses: actions/upload-artifact@v2
-            with:
-                name: Apollo.mrpack
-                path: Apollo.mrpack
+          - name: Process commit
+            run: ${{ github.workspace }}/.github/scripts/process-commit.sh

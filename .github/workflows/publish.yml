@@ -1,8 +1,8 @@
 name: Publish Modpack
 
 on:
-  release:
-    types: ["published"]
+  push:
+    tags: ['*']
 
 jobs:
   publish:
@@ -12,17 +12,25 @@ jobs:
         uses: actions/checkout@v4
       - name: Install dependencies
         run: go install github.com/packwiz/packwiz@latest
-      - name: Test commit
-        run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ github.event.release.tag_name }}.mrpack"
+      - name: Generate Changelog
+        id: changelog
+        run: ${{ github.workspace }}/.github/scripts/create-changelog.sh
+      - name: Get Tag Name
+        id: get_tag
+        run: git tag | tail -n 1
+      - name: Build Modpack
+        run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-            name: "Apollo-${{ github.event.release.tag_name }}.mrpack"
-            path: "Apollo-${{ github.event.release.tag_name }}.mrpack"
+            name: "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
+            path: "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
       - uses: Kir-Antipov/mc-publish@v3.3
         with:
-          files: "Apollo-${{ github.event.release.tag_name }}.mrpack"
+          changelog: ${{ steps.changelog.outputs.* }}
+          files: "*.mrpack"
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-tag: ${{ steps.get_tag.outputs.* }}
+          github-version-type: release
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          github-generate-changelog: false
