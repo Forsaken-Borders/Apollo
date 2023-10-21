@@ -4,6 +4,7 @@ current_semver="$(git tag | tail -n 1)"
 previous_semver="$(git tag | tail -n 2 | head -n 1)"
 new_files=($(git diff --name-only --diff-filter=A "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))
 modified_files=($(git diff --name-only --diff-filter=M "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))
+removed_files=($(git diff --name-only --diff-filter=D "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))
 
 # Initialize changelogs for each category
 mod_changelog=""
@@ -45,6 +46,20 @@ for file in "${modified_files[@]}"; do
         resourcepack_changelog="$resourcepack_changelog- Update **$name**\n"
     elif echo "$file" | grep -q 'shaderpacks'; then
         shaderpack_changelog="$shaderpack_changelog- Update **$name**\n"
+    fi
+done
+
+for file in "${removed_files[@]}"; do
+    # Parse the name from the file
+    name="$(grep -Po 'name = "\K[^"]+' $file | head -n 1)"
+
+    # Check if the file is a mod, resourcepack, or shaderpack
+    if echo "$file" | grep -q 'mods'; then
+        mod_changelog="$mod_changelog- Removed **$name**\n"
+    elif echo "$file" | grep -q 'resourcepacks'; then
+        resourcepack_changelog="$resourcepack_changelog- Removed **$name**\n"
+    elif echo "$file" | grep -q 'shaderpacks'; then
+        shaderpack_changelog="$shaderpack_changelog- Removed **$name**\n"
     fi
 done
 
