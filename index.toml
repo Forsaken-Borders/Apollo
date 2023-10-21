@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/scripts/create-changelog.sh"
-hash = "58855c029d3d3b089dafd4979f10089612bc2f3f56ce6813933c8ce2999f73e1"
+hash = "3009007ddaa7df090a33cd5cb83ab36ed7bdd0277dabb7323f945c764008cf9d"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "b6d06d1d4123efaa4812c3ccbbac129c1164ad81eb00e117b3c416f9770cef2e"
+hash = "28ac0d1a2a35d318b9a10804fe86217824ee4ff852c1dcc8136f9133125e9023"
 
 [[files]]
 file = ".github/workflows/publish.yml"
@@ -118,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/disable-elytra.pw.toml"
 hash = "b34d9d19f5a0810aee76034e4bc52462b629e08d22bf024bb544d4329577ff88"
-metafile = true
-
-[[files]]
-file = "mods/double-doors.pw.toml"
-hash = "c02a955a040a1ecdfdbe9573ffd0c5a252c51560871f068becbcfd713b386b16"
 metafile = true
 
 [[files]]
