@@ -27,6 +27,17 @@ elif [ -z "${modified_files[@]}" ]; then
   new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$NF++; print}')"
 fi
 
+# Modify the pack.toml file
+if [ ! -z "$new_semver" ]; then
+  sed -i "s/version = \"$current_semver\"/version = \"$new_semver\"/g" pack.toml
+  git diff-index --quiet HEAD
+  if [ "$?" == "1" ]; then
+    git add pack.toml > /dev/null
+    git commit -m "Bump version to $new_semver." > /dev/null
+    git push > /dev/null
+  fi
+fi
+
 # Create a new release
 git tag -a "$current_semver" -m "Release $new_semver." > /dev/null
 git push --tags > /dev/null
