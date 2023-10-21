@@ -8,9 +8,10 @@ git diff-index --quiet HEAD
 if [ "$?" == "1" ]; then
   git config --global user.email "github-actions[bot]@users.noreply.github.com"
   git config --global user.name "github-actions[bot]"
+  git add . > /dev/null
   git commit -m "\`packwiz refresh\`." > /dev/null
   git push > /dev/null
-  exit 1
+  exit 0
 fi
 
 # Check if any new mods, resourcepacks or shaderpacks were added. If so, we're bumping the semver minor version up by one
