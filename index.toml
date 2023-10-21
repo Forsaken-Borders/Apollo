@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/scripts/create-changelog.sh"
+hash = "58855c029d3d3b089dafd4979f10089612bc2f3f56ce6813933c8ce2999f73e1"
+
+[[files]]
+file = ".github/scripts/process-commit.sh"
+hash = "244657822bf88bf7853ce885caadeaa3979683fe25a7bad635ca32194579a0ce"
+
+[[files]]
 file = ".github/workflows/publish.yml"
-hash = "48ffa7a90f2394615a7d770bfe61a0415728a833c16304d92242cd97dcfaf5a2"
+hash = "5fcf895bfffffffac0c520b6c30769e9a903d44ed9f86967379f243f4c79393f"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
-hash = "2f0b110b1c96977158e3c6087784eadaaaf705d18961b3d4c4300fe5847dc07c"
+hash = "f926f13da5a2a55004aaf509c0582c047ce9b399fa47b226707fbc4ea03632bb"
 
 [[files]]
 file = "LICENSE"
@@ -94,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "31700160068b76a5ca100ef5153408026e7cdbcabdfb56d4bbc70eefa6db5edf"
+hash = "16e271347136c50d3ce6b3350dcc558ab2f5b75b60d88c1781c03e619b21858d"
 metafile = true
 
 [[files]]
