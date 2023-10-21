@@ -2,7 +2,7 @@ name: Test Commit
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
     paths-ignore: [".gitattributes", ".gitignore", "LICENSE"]
 
 jobs:
