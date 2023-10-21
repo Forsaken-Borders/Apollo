@@ -11,7 +11,6 @@ if [ "$?" == "1" ]; then
   git add . > /dev/null
   git commit -m "\`packwiz refresh\`." > /dev/null
   git push > /dev/null
-  exit 0
 fi
 
 # Check if any new mods, resourcepacks or shaderpacks were added. If so, we're bumping the semver minor version up by one
