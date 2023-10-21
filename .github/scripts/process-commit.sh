@@ -1,18 +1,4 @@
 #!/bin/bash
-set -x
-
-# Run Packwiz Refresh
-~/go/bin/packwiz refresh
-
-# Check if there are any changes
-git diff-index --quiet HEAD
-if [ "$?" == "1" ]; then
-  git config --global user.email "github-actions[bot]@users.noreply.github.com"
-  git config --global user.name "github-actions[bot]"
-  git add . > /dev/null
-  git commit -m "\`packwiz refresh\`." > /dev/null
-  git push > /dev/null
-fi
 
 # Check if any new mods, resourcepacks or shaderpacks were added. If so, we're bumping the semver minor version up by one
 new_semver=""
@@ -26,6 +12,19 @@ if [ ! -z "${new_or_removed_files[@]}" ]; then
 elif [ ! -z "${modified_files[@]}" ]; then
   # Bump the semver patch version up by one
   new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$NF++; print}')"
+fi
+
+# Run Packwiz Refresh
+~/go/bin/packwiz refresh
+
+# Check if there are any changes
+git diff-index --quiet HEAD
+if [ "$?" == "1" ]; then
+  git config --global user.email "github-actions[bot]@users.noreply.github.com"
+  git config --global user.name "github-actions[bot]"
+  git add . > /dev/null
+  git commit -m "\`packwiz refresh\`." > /dev/null
+  git push > /dev/null
 fi
 
 # Modify the pack.toml file
