@@ -121,11 +121,6 @@ hash = "b34d9d19f5a0810aee76034e4bc52462b629e08d22bf024bb544d4329577ff88"
 metafile = true
 
 [[files]]
-file = "mods/double-doors.pw.toml"
-hash = "c02a955a040a1ecdfdbe9573ffd0c5a252c51560871f068becbcfd713b386b16"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
