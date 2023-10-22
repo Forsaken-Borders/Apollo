@@ -10,11 +10,11 @@ hash = "76ec449f4a78b0bc0130919e7c393013fe5e64d76570c2935bb6b2da137e4a40"
 
 [[files]]
 file = ".github/workflows/process-commit.yml"
-hash = "f931989182048c31b4c31ec7823ade1054aa1ce88823cb378a55cb480ce0ac1e"
+hash = "3865b150bde7b17be1940ed8372ce567ef5ed17ecc0ce47c8677b813191667a3"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "1fdf46b59ad51e6cd85f8da317c9f51e930d3fa1a72e291f7ff86960ad611f9b"
+hash = "be56d2841a9126017b6108e871aae4614716c0aa0f7ec7ded6d5df576b688c61"
 
 [[files]]
 file = "LICENSE"
