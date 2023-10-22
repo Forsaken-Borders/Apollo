@@ -4,13 +4,15 @@ on:
   push:
     tags: ['*']
   workflow_call:
+    secrets:
+      MODRINTH_TOKEN:
+        description: 'The token to use for Modrinth authentication'
+        required: true
 
 jobs:
   publish:
     name: Publish Modpack
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,7 +29,7 @@ jobs:
       - name: Build Modpack
         run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
             name: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
             path: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
@@ -35,8 +37,8 @@ jobs:
         with:
           changelog: ${{ steps.changelog.outputs.text }}
           files: "*.mrpack"
+          modrinth-id: CWFVvUtu
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-tag: ${{ steps.get_tag.outputs.tag }}
           github-version-type: release
-          modrinth-id: CWFVvUtu
-          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
