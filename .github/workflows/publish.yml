@@ -26,6 +26,9 @@ jobs:
       - name: Get Tag Name
         id: get_tag
         run: echo "tag=$(git tag | tail -n 1)" >> $GITHUB_OUTPUT
+      - name: Get Game Version
+        id: game_version
+        run: echo "game_version=$(grep -Po 'minecraft = "\K[^"]+' pack.toml)" >> $GITHUB_OUTPUT
       - name: Build Modpack
         run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
       - name: Upload Artifacts
@@ -37,9 +40,12 @@ jobs:
         with:
           changelog: ${{ steps.changelog.outputs.text }}
           files: "*.mrpack"
+          game-versions: ${{ steps.game_version.outputs.game_version }}
+          loaders: fabric
+          name: "Apollo ${{ steps.get_tag.outputs.tag }}"
+          version-type: release
+          version: ${{ steps.get_tag.outputs.tag }}
+          github-tag: ${{ steps.get_tag.outputs.tag }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          modrinth-version: ${{ steps.get_tag.outputs.tag }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          github-tag: ${{ steps.get_tag.outputs.tag }}
-          github-version-type: release

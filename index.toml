@@ -14,7 +14,7 @@ hash = "0acded398b343af5210c410b84291080df85a7376555790969d5ac1bf1dfac0e"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "d9733d73c0c80cc613e6977a3e6e6cb2b2d1803ffce66cb939caf00c7775238b"
+hash = "075cbb0491025734e19ddd7a302beb5ce8c954718a1a4ed7dd6d7b541c37c0ca"
 
 [[files]]
 file = "LICENSE"
