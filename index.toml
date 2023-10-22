@@ -6,11 +6,11 @@ hash = "6cf1b5501b2be7d5e02ee3c772693422555a3f4bf97ee253308ec9b2f3e97b2a"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "76ec449f4a78b0bc0130919e7c393013fe5e64d76570c2935bb6b2da137e4a40"
+hash = "c4932b8f0e29dee9bf62402800c34dea5a632de647acb271edf98d0f4cb4c3d4"
 
 [[files]]
 file = ".github/workflows/process-commit.yml"
-hash = "3865b150bde7b17be1940ed8372ce567ef5ed17ecc0ce47c8677b813191667a3"
+hash = "0acded398b343af5210c410b84291080df85a7376555790969d5ac1bf1dfac0e"
 
 [[files]]
 file = ".github/workflows/publish.yml"
