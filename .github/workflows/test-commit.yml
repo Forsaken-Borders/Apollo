@@ -6,8 +6,8 @@ on:
     paths-ignore: [".gitattributes", ".gitignore", "LICENSE"]
 
 jobs:
-    test-commit:
-        name: Test Commit
+    process-commit:
+        name: Process Commit
         runs-on: ubuntu-latest
         if: "!contains(format('{0} {1}', github.event.head_commit.message, github.event.pull_request.title), '[ci-skip]')"
         permissions:
@@ -21,5 +21,7 @@ jobs:
             run: go install github.com/packwiz/packwiz@latest
           - name: Process commit
             run: ${{ github.workspace }}/.github/scripts/process-commit.sh ${{ secrets.LUNARS_PAT }}
-          - name: Publish
-            uses: ./.github/workflows/publish.yml
+    publish:
+        name: Publish
+        needs: process-commit
+        uses: ./.github/workflows/publish.yml
