@@ -83,5 +83,8 @@ fi
 
 # If the changelog variable is not empty, print it
 if [ ! -z "$changelog" ]; then
+    EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+    echo "text<<$EOF" >> $GITHUB_OUTPUT
     printf "$changelog" >> $GITHUB_OUTPUT
+    echo "$EOF" >> $GITHUB_OUTPUT
 fi

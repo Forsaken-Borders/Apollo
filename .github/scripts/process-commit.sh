@@ -17,11 +17,13 @@ fi
 # Run Packwiz Refresh
 ~/go/bin/packwiz refresh
 
+# Identify as GitHub Actions
+git config --global user.email "github-actions[bot]@users.noreply.github.com"
+git config --global user.name "github-actions[bot]"
+
 # Check if there are any changes
 git diff-index --quiet HEAD
 if [ "$?" == "1" ]; then
-  git config --global user.email "github-actions[bot]@users.noreply.github.com"
-  git config --global user.name "github-actions[bot]"
   git add . > /dev/null
   git commit -m "\`packwiz refresh\`." > /dev/null
   git push > /dev/null
@@ -32,14 +34,12 @@ if [ ! -z "$new_semver" ]; then
   sed -i "s/version = \"$current_semver\"/version = \"$new_semver\"/g" pack.toml
   git diff-index --quiet HEAD
   if [ "$?" == "1" ]; then
-    git config --global user.email "lunar@forsaken-borders.net"
-    git config --global user.name "OoLunar"
     git add pack.toml > /dev/null
     git commit -m "Bump version to $new_semver." > /dev/null
 
     # Create a new tag
     git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
-    git push --repo "https://$1@github.com/Forsaken-Borders/Apollo.git" > /dev/null
-    git push --tags --repo "https://$1@github.com/Forsaken-Borders/Apollo.git" > /dev/null
+    git push > /dev/null
+    git push --tags > /dev/null
   fi
 fi

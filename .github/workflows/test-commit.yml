@@ -20,7 +20,7 @@ jobs:
           - name: Install dependencies
             run: go install github.com/packwiz/packwiz@latest
           - name: Process commit
-            run: ${{ github.workspace }}/.github/scripts/process-commit.sh ${{ secrets.LUNARS_PAT }}
+            run: ${{ github.workspace }}/.github/scripts/process-commit.sh
     publish:
         name: Publish
         needs: process-commit
