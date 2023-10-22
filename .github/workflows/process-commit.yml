@@ -9,6 +9,8 @@ jobs:
         name: Process Commit
         runs-on: ubuntu-latest
         permissions: write-all
+        outputs:
+          bump: ${{ steps.process-commit.outputs.bump }}
         steps:
           - name: Checkout
             uses: actions/checkout@v4
@@ -17,9 +19,11 @@ jobs:
           - name: Install dependencies
             run: go install github.com/packwiz/packwiz@latest
           - name: Process commit
+            id: process-commit
             run: ${{ github.workspace }}/.github/scripts/process-commit.sh
     publish:
         needs: process-commit
+        if: needs.process-commit.outputs.bump == 'true'
         uses: ./.github/workflows/publish.yml
         secrets:
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}

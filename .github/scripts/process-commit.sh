@@ -30,6 +30,7 @@ if [ "$?" == "1" ]; then
 fi
 
 # Modify the pack.toml file
+echo "bump=false" >> $GITHUB_OUTPUT
 if [ ! -z "$new_semver" ]; then
   sed -i "s/version = \"$current_semver\"/version = \"$new_semver\"/g" pack.toml
   git diff-index --quiet HEAD
@@ -41,5 +42,7 @@ if [ ! -z "$new_semver" ]; then
     git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
     git push > /dev/null
     git push --tags > /dev/null
+
+    echo "bump=true" >> $GITHUB_OUTPUT
   fi
 fi
