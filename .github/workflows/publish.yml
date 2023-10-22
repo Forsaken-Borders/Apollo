@@ -39,6 +39,7 @@ jobs:
           files: "*.mrpack"
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-version: ${{ steps.get_tag.outputs.tag }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           github-tag: ${{ steps.get_tag.outputs.tag }}
           github-version-type: release
