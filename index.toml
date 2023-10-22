@@ -14,7 +14,7 @@ hash = "870c9b6e33669532e652f595e45eb2d50f04ecd8ee94c3a35b884b9e89e0df4c"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
-hash = "28b540382f4f15abbd07ba3b385a9f801c804004edc750d6dceade0779727fe6"
+hash = "2ce1fcad626e2efca1febde51f8e0e9e7f92ec3cba24abd953a62e9ee0851991"
 
 [[files]]
 file = "LICENSE"
