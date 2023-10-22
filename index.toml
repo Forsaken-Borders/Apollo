@@ -10,7 +10,7 @@ hash = "5b6c3498ce442c0baacbc70f5a1bee6f9862d226b72c6e6245420df5715e0a32"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "0a229eb6d59d1950ec15df864bc3d9ea07407e1110703fd2cc31a72f0376584d"
+hash = "6b8cb9dce4669227ace7a13e428bbfb6377982ff10f17c0dd6ece07545372fb1"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
