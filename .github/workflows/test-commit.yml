@@ -21,3 +21,5 @@ jobs:
             run: go install github.com/packwiz/packwiz@latest
           - name: Process commit
             run: ${{ github.workspace }}/.github/scripts/process-commit.sh ${{ secrets.LUNARS_PAT }}
+          - name: Publish
+            uses: ./.github/workflows/publish.yml
