@@ -10,7 +10,7 @@ hash = "5b6c3498ce442c0baacbc70f5a1bee6f9862d226b72c6e6245420df5715e0a32"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "7022466c3847a112647d1013c2f41be6840618b1feeeb101997da4a65f0ea192"
+hash = "0a229eb6d59d1950ec15df864bc3d9ea07407e1110703fd2cc31a72f0376584d"
 
 [[files]]
 file = ".github/workflows/test-commit.yml"
@@ -118,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/disable-elytra.pw.toml"
 hash = "b34d9d19f5a0810aee76034e4bc52462b629e08d22bf024bb544d4329577ff88"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c02a955a040a1ecdfdbe9573ffd0c5a252c51560871f068becbcfd713b386b16"
 metafile = true
 
 [[files]]

@@ -23,20 +23,20 @@ jobs:
         run: ${{ github.workspace }}/.github/scripts/create-changelog.sh
       - name: Get Tag Name
         id: get_tag
-        run: git tag | tail -n 1
+        run: echo tag="$(git tag | tail -n 1)" >> $GITHUB_ENV
       - name: Build Modpack
-        run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
+        run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-            name: "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
-            path: "Apollo-${{ steps.get_tag.outputs.* }}.mrpack"
+            name: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
+            path: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
       - uses: Kir-Antipov/mc-publish@v3.3
         with:
-          changelog: ${{ steps.changelog.outputs.* }}
+          changelog: ${{ steps.changelog.outputs.text }}
           files: "*.mrpack"
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          github-tag: ${{ steps.get_tag.outputs.* }}
+          github-tag: ${{ steps.get_tag.outputs.tag }}
           github-version-type: release
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
