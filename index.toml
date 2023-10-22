@@ -6,7 +6,7 @@ hash = "3009007ddaa7df090a33cd5cb83ab36ed7bdd0277dabb7323f945c764008cf9d"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "ae3d734da90f67bb9469a74027a208998b96c3950337fc2a0dfd535a96e9fef9"
+hash = "5a3fcf4001d4d8a4dbd375a2cda1213bc36d5aaf2976f7f7baf3c0d56f551b8f"
 
 [[files]]
 file = ".github/workflows/publish.yml"
