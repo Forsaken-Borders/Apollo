@@ -5,11 +5,11 @@ new_semver=""
 current_semver="$(grep -Po 'version = "\K[^"]+' pack.toml)"
 new_or_removed_files=($(git diff --name-only --diff-filter=AD HEAD~1 | grep -E 'mods|resourcepacks|shaderpacks'))
 modified_files=($(git diff --name-only --diff-filter=M HEAD~1 | grep -E 'mods|resourcepacks|shaderpacks'))
-if [ ! -z "${new_or_removed_files[@]}" ]; then
+if [ "${#new_or_removed_files[@]}" -gt 0 ]; then
   # Bump the semver minor version up by one and reset the patch version to zero
   new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$(NF-1)++; $NF=0; print}')"
 # Else if any mods, resourcepacks or shaderpacks were modified, bump the patch version up by one
-elif [ ! -z "${modified_files[@]}" ]; then
+elif [ "${#modified_files[@]}" -gt 0 ]; then
   # Bump the semver patch version up by one
   new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$NF++; print}')"
 fi

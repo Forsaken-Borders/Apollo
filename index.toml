@@ -6,15 +6,15 @@ hash = "6cf1b5501b2be7d5e02ee3c772693422555a3f4bf97ee253308ec9b2f3e97b2a"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "5b6c3498ce442c0baacbc70f5a1bee6f9862d226b72c6e6245420df5715e0a32"
+hash = "76ec449f4a78b0bc0130919e7c393013fe5e64d76570c2935bb6b2da137e4a40"
+
+[[files]]
+file = ".github/workflows/process-commit.yml"
+hash = "f931989182048c31b4c31ec7823ade1054aa1ce88823cb378a55cb480ce0ac1e"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "6b8cb9dce4669227ace7a13e428bbfb6377982ff10f17c0dd6ece07545372fb1"
-
-[[files]]
-file = ".github/workflows/test-commit.yml"
-hash = "2198a4c45e85a33488fb967a4b5832829c2014616f8c6921a28448dc44cd4b71"
+hash = "1fdf46b59ad51e6cd85f8da317c9f51e930d3fa1a72e291f7ff86960ad611f9b"
 
 [[files]]
 file = "LICENSE"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "210a7ceddcaadd495e9c80a7bd30d2af6c1e8aefca0b0babb4023adef541008d"
+hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
+hash = "e9ea88e342b40c752d426175a969ee350f52b61d7437e0a398558dd3cca57a98"
 metafile = true
 
 [[files]]
