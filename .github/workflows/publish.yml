@@ -23,7 +23,7 @@ jobs:
         run: ${{ github.workspace }}/.github/scripts/create-changelog.sh
       - name: Get Tag Name
         id: get_tag
-        run: echo tag="$(git tag | tail -n 1)" >> $GITHUB_ENV
+        run: echo "tag=$(git tag | tail -n 1)" >> $GITHUB_OUTPUT
       - name: Build Modpack
         run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
       - name: Upload Artifacts
