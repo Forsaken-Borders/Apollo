@@ -40,5 +40,6 @@ if [ ! -z "$new_semver" ]; then
     # Create a new tag
     git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
     git push --repo "https://$1@github.com/Forsaken-Borders/Apollo.git" > /dev/null
+    git push --tags --repo "https://$1@github.com/Forsaken-Borders/Apollo.git" > /dev/null
   fi
 fi
