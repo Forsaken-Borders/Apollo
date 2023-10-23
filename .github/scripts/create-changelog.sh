@@ -1,7 +1,7 @@
 #!/bin/bash
 
-current_semver="$(git tag | tail -n 1)"
-previous_semver="$(git tag | tail -n 2 | head -n 1)"
+current_semver="$(git tag | grep -v "latest" | tail -n 1)"
+previous_semver="$(git tag | grep -v "latest" | tail -n 2 | head -n 1)"
 new_files=($(git diff --name-only --diff-filter=A "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))
 modified_files=($(git diff --name-only --diff-filter=M "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))
 removed_files=($(git diff --name-only --diff-filter=D "$previous_semver..$current_semver" | sort | grep -E 'mods|resourcepacks|shaderpacks'))

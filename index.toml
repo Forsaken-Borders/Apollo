@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = ".github/scripts/create-changelog.sh"
-hash = "6cf1b5501b2be7d5e02ee3c772693422555a3f4bf97ee253308ec9b2f3e97b2a"
+hash = "1d05c006d9565b1767d8172f63ae4d182b267996f6a1b00d47de3b22d4c5c476"
 
 [[files]]
 file = ".github/scripts/process-commit.sh"
-hash = "20bd2badf7ea45c981e6109324eba39f16aa2fe52d0ab03b18e3d2e7d7660488"
+hash = "69d1178c95a3d5720b1efce946b7ce5d178fddabc7e424dd65ca1834af222d0b"
 
 [[files]]
 file = ".github/workflows/process-commit.yml"
@@ -14,7 +14,7 @@ hash = "0acded398b343af5210c410b84291080df85a7376555790969d5ac1bf1dfac0e"
 
 [[files]]
 file = ".github/workflows/publish.yml"
-hash = "075cbb0491025734e19ddd7a302beb5ce8c954718a1a4ed7dd6d7b541c37c0ca"
+hash = "ef0d9b273e6382a1dcd12d4239a024772d6db92e0ded999692c9210674d90f29"
 
 [[files]]
 file = "LICENSE"
@@ -323,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "d4ce2e907ac37eb1c7d4232354fa28e1a2bb9e00999ae6811e5fc587824132e2"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]
