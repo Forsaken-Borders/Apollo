@@ -37,11 +37,12 @@ if [ ! -z "$new_semver" ]; then
   if [ "$?" == "1" ]; then
     git add pack.toml > /dev/null
     git commit -m "Bump version to $new_semver." > /dev/null
+    git push > /dev/null
 
     # Create a new tag
     git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
-    git push > /dev/null
-    git push --tags > /dev/null
+    git tag -a "latest" -m "Release $new_semver." -f > /dev/null
+    git push --tags --force > /dev/null
 
     echo "bump=true" >> $GITHUB_OUTPUT
   fi
