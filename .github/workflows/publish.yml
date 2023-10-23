@@ -25,7 +25,7 @@ jobs:
         run: ${{ github.workspace }}/.github/scripts/create-changelog.sh
       - name: Get Tag Name
         id: get_tag
-        run: echo "tag=$(git tag | tail -n 1)" >> $GITHUB_OUTPUT
+        run: echo "tag=$(grep -Po 'version = "\K[^"]+' pack.toml)" >> $GITHUB_OUTPUT
       - name: Get Game Version
         id: game_version
         run: echo "game_version=$(grep -Po 'minecraft = "\K[^"]+' pack.toml)" >> $GITHUB_OUTPUT

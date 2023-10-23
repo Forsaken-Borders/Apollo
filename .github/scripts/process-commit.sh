@@ -3,8 +3,8 @@
 # Check if any new mods, resourcepacks or shaderpacks were added. If so, we're bumping the semver minor version up by one
 new_semver=""
 current_semver="$(grep -Po 'version = "\K[^"]+' pack.toml)"
-new_or_removed_files=($(git diff --name-only --diff-filter=AD HEAD~1 | grep -E 'mods|resourcepacks|shaderpacks'))
-modified_files=($(git diff --name-only --diff-filter=M HEAD~1 | grep -E 'mods|resourcepacks|shaderpacks'))
+new_or_removed_files=($(git diff --name-only --diff-filter=AD $current_semver..HEAD | grep -E 'mods|resourcepacks|shaderpacks'))
+modified_files=($(git diff --name-only --diff-filter=M $current_semver..HEAD | grep -E 'mods|resourcepacks|shaderpacks'))
 if [ "${#new_or_removed_files[@]}" -gt 0 ]; then
   # Bump the semver minor version up by one and reset the patch version to zero
   new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$(NF-1)++; $NF=0; print}')"
@@ -40,8 +40,8 @@ if [ ! -z "$new_semver" ]; then
     git push > /dev/null
 
     # Create a new tag
-    git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
     git tag -a "latest" -m "Release $new_semver." -f > /dev/null
+    git tag -a "$new_semver" -m "Release $new_semver." > /dev/null
     git push --tags --force > /dev/null
 
     echo "bump=true" >> $GITHUB_OUTPUT
