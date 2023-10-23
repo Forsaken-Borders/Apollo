@@ -116,6 +116,11 @@ hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
 file = "mods/disable-elytra.pw.toml"
 hash = "b34d9d19f5a0810aee76034e4bc52462b629e08d22bf024bb544d4329577ff88"
 metafile = true
@@ -278,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
