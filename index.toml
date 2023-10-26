@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "65df20d0156ede8eefdedbcb297ee041f3e0d4058e957f3b7d52c509d9d07852"
+hash = "00c33874bf3848cae705e95c6db0854780899c59a79ad0ae8c42c40936ea7c9c"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "16e271347136c50d3ce6b3350dcc558ab2f5b75b60d88c1781c03e619b21858d"
+hash = "5ed437c14268d539c9ec53a01ad1f9a686a4c1a60268bd8862a3b8c7a8e9ef63"
 metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "483a552cbf30a9ddfc265d8a7a0ca2e8dd4fcd5ee6ee81069f7e319bac02d815"
+hash = "9354dbbb45ed66b2807563105ffcd5cd042d2e7483d0750a87140604da4046c3"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "e9ea88e342b40c752d426175a969ee350f52b61d7437e0a398558dd3cca57a98"
+hash = "dd8dadd99d99c0535beb51accbb85be19bd2d26944c2836f816f9709f51bb59d"
 metafile = true
 
 [[files]]
