@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".git-hooks/pre-commit"
+hash = "ad809dc0a0e8488da9bac968a38fdff7f3c2cb55a9d85e19ff974eaa12e407db"
+
+[[files]]
 file = ".github/scripts/create-changelog.sh"
 hash = "1d05c006d9565b1767d8172f63ae4d182b267996f6a1b00d47de3b22d4c5c476"
 
