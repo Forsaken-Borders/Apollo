@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "ce687b5880e14a15a6c568db9e0676a5e2f210198c109f56426e71a50b13a165"
+hash = "6273c594f08a91b569e4a9f01bacb3a58b24e6a30df54164233a7c74ad55b97f"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "9354dbbb45ed66b2807563105ffcd5cd042d2e7483d0750a87140604da4046c3"
+hash = "40ce9192aaf75c4f33b07f6836d74cc31ff52a3d6f0e815a5a1be2be018ee6fa"
 metafile = true
 
 [[files]]
@@ -152,17 +152,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+hash = "cf34353699cc6f332d1baa6868a1859f140793816c86889a2121687087a4a242"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4091b4282d862e53d617b33475ded505384e6475bd4c5c4ea1f15ccfcf978427"
+hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f5fd008ccf0b53cd4f32887902503e768e57da4dcc6065160e991c78d5fc017b"
+hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
 metafile = true
 
 [[files]]
