@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "6273c594f08a91b569e4a9f01bacb3a58b24e6a30df54164233a7c74ad55b97f"
+hash = "cc567e526ed680650276a1f9ec8fa4619ad1bb326bed281263600729c3958336"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eba939fcdf3f35b56072cc8c9476c35def2aa7bdecfde6a945980c92ffdf7c9b"
+hash = "0837f5b88d03fc4fb4a1da6ff18b2b265565089f5699fc98993fd5262e472e00"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf34353699cc6f332d1baa6868a1859f140793816c86889a2121687087a4a242"
+hash = "71c96577e14c025bb923dbe0b65caca45f776d50d0b2eec68aaa48b18a43ff2f"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/takeaseat.pw.toml"
-hash = "ef85534cf58e2d7f4453c118be957ecf9822e1befbe5b92632c2e0435ec0aacb"
+hash = "e7d83c44d8b4fa9eace4955a20175e1900376b4d6cbe2416e7b052f8e68b20d0"
 metafile = true
 
 [[files]]

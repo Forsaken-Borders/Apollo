@@ -1,13 +1,13 @@
 name = "TakeASeat"
-filename = "TakeASeat-1.0.1+mc1.20.1.jar"
+filename = "TakeASeat-1.0.2+mc1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/VLMe7pfI/versions/FCHqBaID/TakeASeat-1.0.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/VLMe7pfI/versions/TTFzdXEg/TakeASeat-1.0.2%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "9d5ca1c1b049efadf28d1fba63bb6d1454865e2d"
+hash = "322db8fac4f5c0de4754ebc2ced94ca6e55bd06c"
 
 [update]
 [update.modrinth]
 mod-id = "VLMe7pfI"
-version = "FCHqBaID"
+version = "TTFzdXEg"
