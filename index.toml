@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "00c33874bf3848cae705e95c6db0854780899c59a79ad0ae8c42c40936ea7c9c"
+hash = "fb7beabd5d4c7d6171871ed342c26cbe4506c908ddac578a9bb9d480daf23ef0"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "0159525d452d7e755045223330b3bfc0a3df5491c4a83beee9f00af0b68b8758"
+hash = "4c47dc1b5aa64bf99ea79086f02fc4d1bc79922098fc2c0e3d84a68e3c36dd10"
 metafile = true
 
 [[files]]
@@ -101,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "cc567e526ed680650276a1f9ec8fa4619ad1bb326bed281263600729c3958336"
+hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5ed437c14268d539c9ec53a01ad1f9a686a4c1a60268bd8862a3b8c7a8e9ef63"
+hash = "d3fef41a6ee2c03cbd9a8116c78db0c38869cc6b37e2114737cc89ce5de598d1"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "c02a955a040a1ecdfdbe9573ffd0c5a252c51560871f068becbcfd713b386b16"
+hash = "c56ae338249990a510c4479047c812cf320e5b3cf92833876fb43d846dc602ad"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "7efbc37d46534ad917a87770696269582276a560d5bbd0e7e66d6987a2887832"
+hash = "3d171249b5ac8930afa358cf8717e6240edd9d7cd94fc67faf5ff05a6a579bfd"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "57826885541939e2ef239b7af056d2ce5b64c901b43027ca0b220511d91d9817"
+hash = "295148b9d20527e5ad7bd550b571810ce62f21aaccd44f030366961410d3fd3c"
 metafile = true
 
 [[files]]
