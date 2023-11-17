@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
+hash = "6332607e5399b318c9b39b14a9c6e36428cd52dd96b65f592fff9eb15117fc3f"
 metafile = true
 
 [[files]]
@@ -287,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "9fabff6208086644b34566d9e8ba1ef992a581bbd9eb5067e4c057eb41129ab2"
 metafile = true
 
 [[files]]
