@@ -13,12 +13,20 @@ file = ".github/scripts/process-commit.sh"
 hash = "69d1178c95a3d5720b1efce946b7ce5d178fddabc7e424dd65ca1834af222d0b"
 
 [[files]]
+file = ".github/scripts/update-mods.sh"
+hash = "1d66b1fe20a417335b63dc22ba5476aa07905be3640ff822846a7d158234020d"
+
+[[files]]
 file = ".github/workflows/process-commit.yml"
-hash = "0acded398b343af5210c410b84291080df85a7376555790969d5ac1bf1dfac0e"
+hash = "c5c3eab412c6d2ecd3f9473729447d9eeca3a7e78ca16d2b43f994fd9b855580"
 
 [[files]]
 file = ".github/workflows/publish.yml"
 hash = "ef0d9b273e6382a1dcd12d4239a024772d6db92e0ded999692c9210674d90f29"
+
+[[files]]
+file = ".github/workflows/update.yml"
+hash = "bd89aed1d9082b9449f484ef95eb71c3cd7fe41be48c5cf06ffe27cd3b095cab"
 
 [[files]]
 file = "LICENSE"

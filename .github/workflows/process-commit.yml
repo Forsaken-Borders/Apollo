@@ -3,6 +3,11 @@ name: Process Commit
 on:
   push:
     branches: ["main"]
+  workflow_call:
+    secrets:
+      MODRINTH_TOKEN:
+        description: 'The token to use for Modrinth authentication'
+        required: true
 
 jobs:
     process-commit:
