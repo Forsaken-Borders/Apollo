@@ -1,6 +1,6 @@
 name = "Apollo"
 author = "Lunar Starstrum <lunar@forsaken-borders.net>"
-version = "1.7.0"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
