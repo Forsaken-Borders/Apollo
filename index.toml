@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "fb7beabd5d4c7d6171871ed342c26cbe4506c908ddac578a9bb9d480daf23ef0"
+hash = "83597854911e6f8424f82796dc7d8ef20f72d4d656d37112bc31bfd2b1ffaa81"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4c47dc1b5aa64bf99ea79086f02fc4d1bc79922098fc2c0e3d84a68e3c36dd10"
+hash = "cf7630fc7cb67645d9721797b28b300ac24506ae7d21c2b615edec015a181536"
 metafile = true
 
 [[files]]
@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
+hash = "9c5b2ccf44210ccfd17b8f39e1fe5d7cb27e0acc78abecc855917ac5a3b7c2b5"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d3fef41a6ee2c03cbd9a8116c78db0c38869cc6b37e2114737cc89ce5de598d1"
+hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
 metafile = true
 
 [[files]]
@@ -169,12 +169,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "119c2437e208c88b2c86cb5dbad22ac12ae310282e6691dfc86aade596f6f70c"
+hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "80f2cd7cb60ed88d20d70b92b162362f2e8830d4d46085e31660ee9a3d4cf7e1"
+hash = "97266e57430289d29fdd61e1ca1ccf1a6a73cb54393d383c4d662866190a94b6"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "5efd3cf3ce070d55b607d938dae8ecd201ef54ca2def1fa3f316d6247de6ca8d"
+hash = "6182090dbc0d3cfd3c27bf77b478f2b8370e717f992e7aab050df8dac87bcb14"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "4b1a0406f992881c19222bc014d07da5dbec6e9aedd448f792fb6310c88571d0"
+hash = "90c0bd04d734209877948eee733927ef49844efdc1ff226fb16adc9c2e472e84"
 metafile = true
 
 [[files]]

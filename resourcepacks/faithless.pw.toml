@@ -1,13 +1,13 @@
 name = "Faithless"
-filename = "Faithless 1.20.zip"
+filename = "Faithless.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "dd176eb8e78d802cc30aeb1a9e80ba6dfba4d30f"
+hash = "e00617da1974b1f1496b4623fb895c3208ac02a9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4740367
+file-id = 4879326
 project-id = 440897
