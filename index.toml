@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "6182090dbc0d3cfd3c27bf77b478f2b8370e717f992e7aab050df8dac87bcb14"
+hash = "c4eced58f9f23a0a3d3bdba9834df861bebfb75dce2f5783a614cd5a70ea8522"
 metafile = true
 
 [[files]]
@@ -422,5 +422,5 @@ hash = "e2c664edf5c310013afe00887a07c1d457acc7ce580df037686f5d8840c7500f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "46eec9f8e01aeceeea6c56a69de188a2883d92a5db7ac1ec76e486d217bb9388"
+hash = "c2c9bf7a0fe1e9a90f69405141ea3bda3cc9f943112d9e8d5e2554bb6086a8ff"
 metafile = true
