@@ -1,13 +1,13 @@
 name = "Double Doors"
-filename = "doubledoors-1.20.1-5.1.jar"
+filename = "doubledoors-1.20.1-5.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/m26JddLH/doubledoors-1.20.1-5.1.jar"
+url = "https://cdn.modrinth.com/data/JrvR9OHr/versions/lVOR7EbI/doubledoors-1.20.1-5.2.jar"
 hash-format = "sha1"
-hash = "a3141254eaa67e794f2a609930f6dd23e14dc322"
+hash = "70e4fd67f0e12ae386d93f9b5be653ec2cd192fe"
 
 [update]
 [update.modrinth]
 mod-id = "JrvR9OHr"
-version = "m26JddLH"
+version = "lVOR7EbI"

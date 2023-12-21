@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "df83086d160981e8d4e29defe7253d6b2f3339d33dcc2c72e8359bea2f134960"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "60c98d1075de85ee837965509c027271fe115b68ec81b1988f1715c2964541c2"
+hash = "3c2b29ba9a3d803ee3472d08242dddbac3db46d1e3fe278774aaa3848d59106b"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "c56ae338249990a510c4479047c812cf320e5b3cf92833876fb43d846dc602ad"
+hash = "b50027efa8c9bedc81a2d7287f91381da1097b4d12b68d04d0f6421d5d294ad8"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "3d171249b5ac8930afa358cf8717e6240edd9d7cd94fc67faf5ff05a6a579bfd"
+hash = "78415205a3230ce30161b6e255380d8ccf28e0aece8a6ab0e0e61da3c9031d9e"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "295148b9d20527e5ad7bd550b571810ce62f21aaccd44f030366961410d3fd3c"
+hash = "ba3b885f50d4f8e2ede213e90c9d717ee513bd901e0211320646331a24cf17ac"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c43680b77e57e89ed96bc58c0fd1821620e8492d06a521b997555d36c1dab5e1"
+hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
 metafile = true
 
 [[files]]
