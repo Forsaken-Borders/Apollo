@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3c2b29ba9a3d803ee3472d08242dddbac3db46d1e3fe278774aaa3848d59106b"
+hash = "8e338e1052b47584ea2357beb2932de6b5a37945332c6988ad10e1827773fe44"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
+hash = "7b37f7cd1bc867390fd57616a33dde1240ae9ada74919a4e8ba20e997b15da54"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "0562a83565f02e9b862b2e0b616ee3dcb669d651410d4519446110b31ae51232"
+hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
 metafile = true
 
 [[files]]
@@ -369,12 +369,12 @@ metafile = true
 
 [[files]]
 file = "mods/view-distance-fix.pw.toml"
-hash = "d516609512f43f65777600e5ef45dacedd6b1c8bc5311b757b6c342999f1d8d5"
+hash = "fb9e4ad5bd698b0698a7af8d0471998b7e2c5ab9635c35f4b46683ca6271df8b"
 metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
-hash = "c4eced58f9f23a0a3d3bdba9834df861bebfb75dce2f5783a614cd5a70ea8522"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
