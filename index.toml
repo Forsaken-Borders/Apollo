@@ -54,7 +54,7 @@ hash = "5da4eb2ba4994c75d2d379dd8d6040da12d6bd9b5f10b8a90836acfb1a8a7907"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
+hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8e338e1052b47584ea2357beb2932de6b5a37945332c6988ad10e1827773fe44"
+hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
+hash = "18367cc70788ea339b4cb15a1f1437642467dfcf547235a982d821c2c273926e"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "19b66c624b16ef3616b9ab37f18b630f04088d18f4982a0d7df9204b55e31353"
+hash = "4aaf99aefcebf7fbc669e04d195e073ba88c7443fc04edc20fc261a8c27c6c2a"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "ba3b885f50d4f8e2ede213e90c9d717ee513bd901e0211320646331a24cf17ac"
+hash = "fa9b862426ad5a2ce7c1d989560ad1907b3bfd2e0bb7ffdcf4c643966b7192a5"
 metafile = true
 
 [[files]]
