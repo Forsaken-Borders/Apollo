@@ -14,7 +14,7 @@ hash = "69d1178c95a3d5720b1efce946b7ce5d178fddabc7e424dd65ca1834af222d0b"
 
 [[files]]
 file = ".github/scripts/update-mods.sh"
-hash = "1d66b1fe20a417335b63dc22ba5476aa07905be3640ff822846a7d158234020d"
+hash = "564b045999ad6918a5f76624497c0403cc77835b653fdfb5f993101e7502b61b"
 
 [[files]]
 file = ".github/workflows/process-commit.yml"
@@ -26,7 +26,7 @@ hash = "ef0d9b273e6382a1dcd12d4239a024772d6db92e0ded999692c9210674d90f29"
 
 [[files]]
 file = ".github/workflows/update.yml"
-hash = "bd89aed1d9082b9449f484ef95eb71c3cd7fe41be48c5cf06ffe27cd3b095cab"
+hash = "7a33e3daf171676d0ae6aceccb9125236f30aaf888e7d564d3ba774104bc14bf"
 
 [[files]]
 file = "LICENSE"
