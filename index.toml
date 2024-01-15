@@ -54,7 +54,7 @@ hash = "5da4eb2ba4994c75d2d379dd8d6040da12d6bd9b5f10b8a90836acfb1a8a7907"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "839d9c670b90adc76e29b0e57eab87c2cc7aa6109c4adb0e119ec60b164a833b"
+hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
+hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "4aaf99aefcebf7fbc669e04d195e073ba88c7443fc04edc20fc261a8c27c6c2a"
+hash = "a4fc7e1049b3b97b3232262bbccf6e21d9247881e50664fee416ed069f0626ff"
 metafile = true
 
 [[files]]
@@ -294,12 +294,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "9b5ba0e49c19478f93bef3a4c3ba8f068e4d0039fa643423ef411b9f11621105"
+hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/perfect-accuracy.pw.toml"
-hash = "2256146bd9b62695a8f33739ff84476cd849ee0646e9961163980094226f857c"
+hash = "b12911fc5e1c093bc33cad60ec0c741a6066783cecdb5750d2c8124463aabef3"
 metafile = true
 
 [[files]]
