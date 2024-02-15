@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "40ce9192aaf75c4f33b07f6836d74cc31ff52a3d6f0e815a5a1be2be018ee6fa"
+hash = "f38456a9c3e818b78b97f69fe2e1026de35adad78dea75e7f31c88f4ea88f7b8"
 metafile = true
 
 [[files]]
@@ -164,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f65a3578bb4e5d903d75de8c631ce7ad6d60b451aad7dfc9b1e3fc9c62eb4bf6"
+hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6f8827bc39d892a56351a6cecd39176addebb2ebf1c608b761b0d1985080b05"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -204,12 +204,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a52e7b7897b5f1000fbbb1c4fb72eb0691de2672324492a55c115b99496c1fec"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
+hash = "e9c1efd327adb9305b8ae56daf65cfee0d43b05b933b6c98518c53005b835fbb"
 metafile = true
 
 [[files]]
@@ -289,17 +289,17 @@ metafile = true
 
 [[files]]
 file = "mods/nonetherite.pw.toml"
-hash = "6f3b24d06740d491b7e283741838a0546a7c460ff12856ecf51b93c95a4d1862"
+hash = "3820f62536498165eaafc3a3ab0e59b6822ce8696e1b6c472688b88d096136b6"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "6e8f54238b405650aea8f045b138b86d13311fabe8bc0bbebd35f3844c9148e4"
+hash = "acfbe6632469f78f299d341895817ee1b678b7c03d773631399f574d99f87fef"
 metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "1cdf189428c566c0dadd12367c0c7f9d571023b42b1a0555370df05e94a5783d"
+hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4ddabe0943463aed08fcfe20880a525cc722ca8689692d5403e2c34c2c13b2d3"
+hash = "63be742ca329f41e88efe8507fe270ee28725d7c4479f337311585e3baf08988"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "dc2a58b44595ac5426543dc3c1ad1aad4c0e87a48eabee8978b000d505570846"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
 metafile = true
 
 [[files]]
