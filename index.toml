@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c2fc745e9dc783ce306612124ae1ff0e66d3ddf4113172ccfc27c571c09b0b13"
+hash = "30928528b8739f0b3d708cef1f41a0099481be25fca54de4faf67d9e47410640"
 metafile = true
 
 [[files]]
@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "14dee244835896ecf74aeb0e2e9f86176ec208c9b981471cd8a599bab5966a9d"
+hash = "8875c35e0d48e5a048b7e789c013318a593724b4dad1eb8197e0c1c394f57265"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7b37f7cd1bc867390fd57616a33dde1240ae9ada74919a4e8ba20e997b15da54"
+hash = "bc3bc0595f66d6df14b1d3172af81b6eae144994b17b484d325980677b763f07"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
+hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "63be742ca329f41e88efe8507fe270ee28725d7c4479f337311585e3baf08988"
+hash = "40a4c9575d1bfdc1bdbe0b26199834d1b4c0ac6c2fb3f573dc7405073b816000"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "9f6d01028472394a8c3120f1e2a0229d09c77069bdca793159fecc6074aae394"
+hash = "5569a771735063bdd42bc2313b76b56a2c070fbbd58d6af551c6ec6b9ddc54a6"
 metafile = true
 
 [[files]]
@@ -413,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "737ca5abc02cb75c7dfd305f4da32c6b3a00a0812877742d832edb86b56e1f02"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
 metafile = true
 
 [[files]]
