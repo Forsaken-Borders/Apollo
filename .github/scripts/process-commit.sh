@@ -7,11 +7,11 @@ new_or_removed_files=($(git diff --name-only --diff-filter=AD $current_semver..H
 modified_files=($(git diff --name-only --diff-filter=M $current_semver..HEAD | grep -E 'mods|resourcepacks|shaderpacks'))
 if [ "${#new_or_removed_files[@]}" -gt 0 ]; then
   # Bump the semver minor version up by one and reset the patch version to zero
-  new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$(NF-1)++; $NF=0; print}')"
+  new_semver="$(echo "$current_semver" | awk -F. -v OFS=. '{$(NF-1)++; $NF=0; print}')"
 # Else if any mods, resourcepacks or shaderpacks were modified, bump the patch version up by one
 elif [ "${#modified_files[@]}" -gt 0 ]; then
   # Bump the semver patch version up by one
-  new_semver="$(echo $current_semver | awk -F. -v OFS=. '{$NF++; print}')"
+  new_semver="$(echo "$current_semver" | awk -F. -v OFS=. '{$NF++; print}')"
 fi
 
 # Run Packwiz Refresh
@@ -22,8 +22,7 @@ git config --global user.email "github-actions[bot]@users.noreply.github.com"
 git config --global user.name "github-actions[bot]"
 
 # Check if there are any changes
-git diff-index --quiet HEAD
-if [ "$?" == "1" ]; then
+if ! git diff --exit-code; then
   git add . > /dev/null
   git commit -m "\`packwiz refresh\`." > /dev/null
   git push > /dev/null
