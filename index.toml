@@ -54,7 +54,7 @@ hash = "5da4eb2ba4994c75d2d379dd8d6040da12d6bd9b5f10b8a90836acfb1a8a7907"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "65c47c1758d604d53506af223b6d1a07fbeedc5852175d4cfaabe60ce6d1fd45"
+hash = "c4ac5a501db3bf4ff72430963f95f0228e74e6376c9136b44d2809b57d875d17"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
+hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "2ce4b85768ecd006e8cee9857ab0a80c58571ed8119bf0175d322bfdb5607d09"
+hash = "a40d6dc42ced37c0b88853c141d51631c1062c3d2cfc5672f478b94d060b6933"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8a25b9833ad536b08c6c3bd0f2eab8d5d680b0bd18fb9bd3206d47c6f464e5ba"
+hash = "5762034e469126ca673ee2f67dcc6a2969b73f0623ea44c84af0b7195c93e13f"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d42acbade20a83ebd7faac05fbe979730a40a170e7ea6e31e126d2517bbb33dd"
+hash = "2a36bacc54de817c3e990f60666037d2872e3cf90b4eb7b74645c8716d172186"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "acfbe6632469f78f299d341895817ee1b678b7c03d773631399f574d99f87fef"
+hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "e5b1afd1fedd08ba9fca6d88fe1f0fedf6154fc7b6fa92946dfe0f8357efeebd"
+hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "7aa7d8d50839eabb773fc90390690373995beaf3a4c7b5c911399fb2995ce1e7"
+hash = "ccdac9e8e2f711f193c9363211d78b6fd5f12be629202fe9b51faa2a362bfbf1"
 metafile = true
 
 [[files]]
