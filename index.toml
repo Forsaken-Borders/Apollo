@@ -59,12 +59,12 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "30928528b8739f0b3d708cef1f41a0099481be25fca54de4faf67d9e47410640"
+hash = "c72f6ea5da0a3fead67878b1094c9a04bc9d2dc2d6feb32e64636fdd9a2a55d8"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8a069d8b237eb6807fb27f7b19867055293190f25b03e83dad183dfcdad9efd7"
+hash = "6fa6853ce4c5fb25ab835b857628b6965a77e911af660d1f819bef9334510801"
 metafile = true
 
 [[files]]
@@ -109,17 +109,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "068d400e65ec04f110ff30663902b08310039f32ec6ea419459bda968222cec2"
+hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "fe223b787025b59b74996607a0b038df4f6b602f7a3ca13872254548ffa8a90e"
+hash = "673f2c588b23a3588979050dfe1a004b77bbb3891839de4660403a542441616d"
 metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "f38456a9c3e818b78b97f69fe2e1026de35adad78dea75e7f31c88f4ea88f7b8"
+hash = "b1dc4b88272c9c06b71c94d10ab0a88c46ccdf029c4bf350e8c71ee3addcc79b"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "a40d6dc42ced37c0b88853c141d51631c1062c3d2cfc5672f478b94d060b6933"
+hash = "0bc34de195717313cc7d94cc30be4219059bcf95caf37166924aefacdf2ea876"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -294,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
+hash = "c737bdfd6940736f88cd39065a0193ba70637a560fbce4389e59f67d72813209"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "77520b0d6b6d512b3fac85990e2d45d67c3ed7fdffb56db013e7b0660e69ffb2"
+hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c3220fe330ab4f7842a82f41128295e53773c3a4030cd6eb81d101d688ca8314"
+hash = "9dc261013aeb469fb039c3dd47271351f339cfaf95f8c95a7c4053062d605255"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ccdac9e8e2f711f193c9363211d78b6fd5f12be629202fe9b51faa2a362bfbf1"
+hash = "92f3c1d5f4b6f8376f16518979bbfe063a302af04194183d0165509c989abfc0"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "6258af30fa22a2fa69d3fcc0ec1db399e36047e43765b906ea1e18d0a1a940b5"
+hash = "60ec44d446ece1439fdba72b65a98c3b8dd7ae904f50c6f94098e27716de66b1"
 metafile = true
 
 [[files]]
