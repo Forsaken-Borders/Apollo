@@ -1,5 +1,0 @@
-#!/bin/bash
-
-packwiz refresh
-git add .
-exit 0

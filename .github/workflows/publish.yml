@@ -2,50 +2,99 @@ name: Publish Modpack
 
 on:
   push:
-    tags: ['*']
-  workflow_call:
-    secrets:
-      MODRINTH_TOKEN:
-        description: 'The token to use for Modrinth authentication'
-        required: true
+    paths:
+      - "src/**"
+    branches:
+      - master
+  schedule:
+    # Once every week
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "The version of the modpack to update to"
+        required: false
+        type: string
 
 jobs:
   publish:
-    name: Publish Modpack
     runs-on: ubuntu-latest
+    if: (github.event_name == 'push' && !contains(github.event.head_commit.message, '[ci-skip]')) || (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+    permissions:
+      contents: write
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@main
         with:
           fetch-depth: 0
-      - name: Install dependencies
-        run: go install github.com/packwiz/packwiz@latest
-      - name: Generate Changelog
-        id: changelog
-        run: ${{ github.workspace }}/.github/scripts/create-changelog.sh
-      - name: Get Tag Name
-        id: get_tag
-        run: echo "tag=$(git tag | grep -v "latest" | tail -n 1)" >> $GITHUB_OUTPUT
-      - name: Get Game Version
-        id: game_version
-        run: echo "game_version=$(grep -Po 'minecraft = "\K[^"]+' pack.toml)" >> $GITHUB_OUTPUT
-      - name: Build Modpack
-        run: ~/go/bin/packwiz modrinth export -o "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
+      - name: Install .NET
+        uses: actions/setup-dotnet@main
+      - name: Update The Modpack
+        id: push
+        run: |
+          # Install Packwiz
+          go install github.com/packwiz/packwiz@latest
+
+          # Make it available to everyone
+          export PATH="$HOME/go/bin:$PATH"
+
+          # Set the version of the modpack, if specified
+          if [ -n "${{ github.event.inputs.version }}" ]; then
+            export MODPACK_VERSION="${{ github.event.inputs.version }}"
+          fi
+
+          # Update the modpack
+          dotnet run --project ${{ github.workspace }}/tools/OoLunar.ForsakenBorders.Apollo.Updater/Apollo.csproj
+
+          # Go into the modpack directory
+          cd ${{ github.workspace }}/src
+
+          # Parse the modpack version
+          MODPACK_VERSION="$(grep -Po 'version = "\K[^"]+' pack.toml)"
+          echo MODPACK_VERSION="$MODPACK_VERSION" >> $GITHUB_OUTPUT
+
+          # Parse the game version
+          GAME_VERSION="$(grep -Po 'minecraft = "\K[^"]+' pack.toml)"
+          echo "GAME_VERSION=$GAME_VERSION" >> $GITHUB_OUTPUT
+
+          # Check if there are any changes
+          if [ -n "$(git status --porcelain)" ]; then
+            # Identify as GitHub Actions
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git config --global user.name "github-actions[bot]"
+
+            # Commit changes
+            git add .
+
+            # Set commit message
+            echo "Update to $MODPACK_VERSION" >> .commit-message
+            echo >> .commit-message
+            cat ${{ github.workspace }}/CHANGELOG.md >> .commit-message
+            git commit -F .commit-message
+
+            # Create a new tag
+            git tag -a "$MODPACK_VERSION" -m "Update to $MODPACK_VERSION"
+
+            # Push changes
+            git push
+          fi
+
+          # Move the modpack to the root
+          mv "Apollo-$MODPACK_VERSION.zip" ${{ github.workspace }}
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@main
         with:
-            name: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
-            path: "Apollo-${{ steps.get_tag.outputs.tag }}.mrpack"
-      - uses: Kir-Antipov/mc-publish@v3.3
+            name: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.zip"
+            path: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.zip"
+      - uses: Kir-Antipov/mc-publish@v3
         with:
-          changelog: ${{ steps.changelog.outputs.text }}
+          changelog-file: "CHANGELOG.md"
           files: "*.mrpack"
-          game-versions: ${{ steps.game_version.outputs.game_version }}
-          loaders: fabric
-          name: "Apollo ${{ steps.get_tag.outputs.tag }}"
-          version-type: release
-          version: ${{ steps.get_tag.outputs.tag }}
-          github-tag: ${{ steps.get_tag.outputs.tag }}
+          game-versions: ${{ steps.push.outputs.GAME_VERSION }}
+          github-tag: ${{ steps.push.outputs.MODPACK_VERSION }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          loaders: fabric
           modrinth-id: CWFVvUtu
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          name: "Apollo ${{ steps.push.outputs.MODPACK_VERSION }}"
+          version-type: release
+          version: ${{ steps.push.outputs.MODPACK_VERSION }}
