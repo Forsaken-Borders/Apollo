@@ -54,17 +54,17 @@ hash = "5da4eb2ba4994c75d2d379dd8d6040da12d6bd9b5f10b8a90836acfb1a8a7907"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "bc4677b5d9ff2bca2d8e031faf781a10bc578b95cdb709527b8eb85d79e4daae"
+hash = "aa9713b04a9a616f81f739cafd3b665e3fb835cc281c4478e92b0a8ba8e34c20"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
+hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "c72f6ea5da0a3fead67878b1094c9a04bc9d2dc2d6feb32e64636fdd9a2a55d8"
+hash = "e801c439914b3f8609ad41be6072eee3d918b0ff0170ab69a1db21ff11ef672f"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6fa6853ce4c5fb25ab835b857628b6965a77e911af660d1f819bef9334510801"
+hash = "522541d0f64752df95a0fd2089aff87c13aada4ebf6c9f54150284f28e207286"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
+hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "025234450612bb71d2692b901bcfa5c93ad931c67a0019260eb8cead4396c10f"
+hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9dc261013aeb469fb039c3dd47271351f339cfaf95f8c95a7c4053062d605255"
+hash = "d6c2e4a684701f313dc2243217d08f300639bc5fceba60a870a7bb298ca0036c"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "ccf55ba362726080854360dc1a19323576b5da9e71dab5ea055490003b4f037d"
+hash = "11c169e4be2f5f315d02ed216c293e337d3e7de9c0ed69b3cab5146e384dd222"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "92f3c1d5f4b6f8376f16518979bbfe063a302af04194183d0165509c989abfc0"
+hash = "eac8d9e0eacb296e7b648d3f1c3fc648e6d2c938d2b98c195b804c62183c6c26"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "60ec44d446ece1439fdba72b65a98c3b8dd7ae904f50c6f94098e27716de66b1"
+hash = "e5b6476e7b7d2a40437241f5b1b46c8f3d1317184f1201cfa09e014fbfb69785"
 metafile = true
 
 [[files]]
