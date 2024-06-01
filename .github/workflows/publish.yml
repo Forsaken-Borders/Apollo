@@ -79,12 +79,12 @@ jobs:
           fi
 
           # Move the modpack to the root
-          mv "Apollo-$MODPACK_VERSION.zip" ${{ github.workspace }}
+          mv "Apollo-$MODPACK_VERSION.mrpack" ${{ github.workspace }}
       - name: Upload Artifacts
         uses: actions/upload-artifact@main
         with:
-            name: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.zip"
-            path: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.zip"
+            name: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.mrpack"
+            path: "Apollo-${{ steps.push.outputs.MODPACK_VERSION }}.mrpack"
       - uses: Kir-Antipov/mc-publish@v3
         with:
           changelog-file: "CHANGELOG.md"

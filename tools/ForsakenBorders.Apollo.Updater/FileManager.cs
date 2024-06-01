@@ -23,7 +23,7 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
             Directory.CreateDirectory(_cachePath);
 
             // Try to download all the mods as is
-            (string output, int exitCode) = await Program.ExecuteProgramAsync("packwiz", $"curseforge export --cache {_cachePath}", logger);
+            (string output, int exitCode) = await Program.ExecuteProgramAsync("packwiz", $"modrinth export --cache {_cachePath}", logger);
             if (exitCode == 0)
             {
                 logger.Information("Successfully exported the modpack");
@@ -109,7 +109,7 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
             service.Dispose();
 
             // Try again
-            (output, exitCode) = await Program.ExecuteProgramAsync("packwiz", $"curseforge export -y --cache {_cachePath}", logger);
+            (output, exitCode) = await Program.ExecuteProgramAsync("packwiz", $"modrinth export -y --cache {_cachePath}", logger);
             if (exitCode != 0)
             {
                 logger.Fatal("Failed to export the modpack: {Output}", output);
