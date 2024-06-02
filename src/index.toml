@@ -1,38 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".git-hooks/pre-commit"
-hash = "ad809dc0a0e8488da9bac968a38fdff7f3c2cb55a9d85e19ff974eaa12e407db"
-
-[[files]]
-file = ".github/scripts/create-changelog.sh"
-hash = "1d05c006d9565b1767d8172f63ae4d182b267996f6a1b00d47de3b22d4c5c476"
-
-[[files]]
-file = ".github/scripts/process-commit.sh"
-hash = "f6ebb09b5acf9d948041651e07da0f77645a38cfa539ea8b6981e99e493c7da4"
-
-[[files]]
-file = ".github/scripts/update-mods.sh"
-hash = "564b045999ad6918a5f76624497c0403cc77835b653fdfb5f993101e7502b61b"
-
-[[files]]
-file = ".github/workflows/process-commit.yml"
-hash = "c5c3eab412c6d2ecd3f9473729447d9eeca3a7e78ca16d2b43f994fd9b855580"
-
-[[files]]
-file = ".github/workflows/publish.yml"
-hash = "ef0d9b273e6382a1dcd12d4239a024772d6db92e0ded999692c9210674d90f29"
-
-[[files]]
-file = ".github/workflows/update.yml"
-hash = "7a33e3daf171676d0ae6aceccb9125236f30aaf888e7d564d3ba774104bc14bf"
-
-[[files]]
-file = "LICENSE"
-hash = "94ef1204a1a52cfe88ad66d3363b62f8a65b31bccafa612fffac5697e184649d"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "88c1d481b1048c62d228e356ecd683b1128dfba8693921080a6a8660e1def2a4"
 
@@ -109,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "673f2c588b23a3588979050dfe1a004b77bbb3891839de4660403a542441616d"
+hash = "bbbc1c9f1f40a89cbc3b017eba4694471b8eef5cdcb046dfc6676e5d60881bd0"
 metafile = true
 
 [[files]]
@@ -169,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f957e7280d9bae7569829edcaff25b0ba05ddb029d24f4ea53bdfb0a79615fad"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
@@ -289,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/nonetherite.pw.toml"
-hash = "3820f62536498165eaafc3a3ab0e59b6822ce8696e1b6c472688b88d096136b6"
+hash = "b916af8da349cad2705e45ebccfd3e7c1960eba2876c0ac84de221c76a9f2d70"
 metafile = true
 
 [[files]]
@@ -408,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "e5b6476e7b7d2a40437241f5b1b46c8f3d1317184f1201cfa09e014fbfb69785"
+hash = "25b0387e3047f01cdaf93d8ea7a5fb04df66fb7243ee834475371887d39293b0"
 metafile = true
 
 [[files]]
