@@ -1,13 +1,13 @@
 name = "Complementary Shaders - Reimagined"
-filename = "ComplementaryReimagined_r5.1.1.zip"
+filename = "ComplementaryReimagined_r5.2.1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "8738d99d8a78b7e7ea71b5c15a3432bc04eba715"
+hash = "4ab8734a50018b58ecb1ac75042639f25094cf26"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4913944
+file-id = 5403838
 project-id = 627557

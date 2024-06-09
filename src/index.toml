@@ -101,6 +101,11 @@ hash = "0c010b32989ab8320ce35fd0efbf41112543684b5d03dedc82cdc8d8b64742ad"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.pw.toml"
+hash = "f9f4439a50f6de55c91eab4c2dcbe1a6c9c325a7b87d1b579c79a6098f5dedc1"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "4bf0a9827aec78e4c94fe3889bfe97449ca2107751bfdf6b1203749c30c76c3f"
 metafile = true
@@ -236,6 +241,11 @@ hash = "28c115a5d999a96d39a31b333ad4e3798ef363281d07bf8c6e967ff27d7e6400"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980"
+metafile = true
+
+[[files]]
 file = "mods/mobhealthindicators.pw.toml"
 hash = "85cb30a4dbf9d2908af85aa40628d39ed7b1c282b64320b4697e408b62e5357e"
 metafile = true
@@ -306,6 +316,11 @@ hash = "b12911fc5e1c093bc33cad60ec0c741a6066783cecdb5750d2c8124463aabef3"
 metafile = true
 
 [[files]]
+file = "mods/playerhealthindicators.pw.toml"
+hash = "a8528a56fa7cd6780fb6f4725f6886bb922d6c7a4d8d6230cc6c6e3a68745d99"
+metafile = true
+
+[[files]]
 file = "mods/raknetify.pw.toml"
 hash = "943e13d07bc64f2410603366e77b1966f00bda18bf6430a9149282ac1d06a0fd"
 metafile = true
@@ -328,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "fd3b65bc3fa930ab841c828fb5795b97c52568c27f4b92c2bd4d324706f2bcff"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp.pw.toml"
+hash = "25c6c26c56658a11b6cdd930ba2403817c52718824033077615890a1d00ece32"
 metafile = true
 
 [[files]]
@@ -391,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithless.pw.toml"
-hash = "25b0387e3047f01cdaf93d8ea7a5fb04df66fb7243ee834475371887d39293b0"
+hash = "16833981fc2919119693ee040e8c113e04220de8f70c8d47b001f9a439c48767"
 metafile = true
 
 [[files]]
@@ -405,5 +425,5 @@ hash = "e2c664edf5c310013afe00887a07c1d457acc7ce580df037686f5d8840c7500f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "c2c9bf7a0fe1e9a90f69405141ea3bda3cc9f943112d9e8d5e2554bb6086a8ff"
+hash = "170a8817f93b22938e19e75afc44cc9d42f0ced575ce3c3dc9b3a2fee102f657"
 metafile = true
