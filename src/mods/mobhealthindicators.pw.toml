@@ -1,13 +1,13 @@
 name = "MobHealthIndicators"
-filename = "MobHealthIndicator-1.2.1-1.20.4.jar"
+filename = "MobHealthIndicator-1.2.2-1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GPcAw0lx/versions/ZOjLx1jW/MobHealthIndicator-1.2.1-1.20.4.jar"
+url = "https://cdn.modrinth.com/data/GPcAw0lx/versions/zxPMqGlV/MobHealthIndicator-1.2.2-1.20.6.jar"
 hash-format = "sha1"
-hash = "019454f78e0e308b2430a0658b55ae89c240ffc5"
+hash = "9e21f1e7bdcce605591ee89c49a08fa8311b8597"
 
 [update]
 [update.modrinth]
 mod-id = "GPcAw0lx"
-version = "ZOjLx1jW"
+version = "zxPMqGlV"
