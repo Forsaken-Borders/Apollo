@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "03dc43ab10a1ebeb539dd8fd4cff50ed14726c8af5e781cf62871f75b3a3e49f"
+hash = "7dd609edc5df00b01caebb7c29f6437c8fefde1af1a9a06fa6c4e4607a9ed231"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e00b09ad24f8d69c585caec3f486b2ea66f1644d71bbf2fc85df1adbeb8beb07"
+hash = "b8452fc314e3a49f6bb226004c5afe81a2d383480ba15b85581390f2bf2aa877"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/mobhealthindicators.pw.toml"
-hash = "062b85664b436d96b16da5aef3416f94524a35fc58c7c81320462df8bc2ac442"
+hash = "bb616141b0cad99126df9aaaadbca565735acfc3827e42e433ef8e6842fc2b0e"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f9186f368f07be8d4f532d3f4fd25535f6d4e7ff9278b0e7e48f984807da016b"
+hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+hash = "0a4676b25054d0bd8cc97adc49b2fca2e4af4f2c92fc3dca484c7fea169aebff"
 metafile = true
 
 [[files]]
