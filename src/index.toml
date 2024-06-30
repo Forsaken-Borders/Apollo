@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
+hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "fd3b65bc3fa930ab841c828fb5795b97c52568c27f4b92c2bd4d324706f2bcff"
+hash = "3a125e342d3a410f67643d264c097501cb10723fe5244321ef2ee055956b0678"
 metafile = true
 
 [[files]]
