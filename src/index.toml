@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8c8a9578de59d6ceb9a1d6ca825b1ce8a3a679a35bd91513a8ad7bb54c925f9c"
+hash = "58da1cc51346fe035d9faa0446340b0d9fcdc3a925706bc8d101c33907fd3f0f"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1c0633f52455c5c6db31b4d926acbbaa0890d771177b55e33eb245a7bc63b635"
+hash = "7609db7b10ab94c8f9e1e0899667768f7bad26013be5dc2bd86b2ff86fe9886b"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "880d7fcdbf0bc9e1e7e5ff3b120e9667245708a5d144b5afbad32bf39c7fc1f9"
+hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b8452fc314e3a49f6bb226004c5afe81a2d383480ba15b85581390f2bf2aa877"
+hash = "d17bc5e3243a941a301ee276072f583230f3d150f156e24a04103841aa216ed6"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
+hash = "bf3720a74abc1bf7f7287e57f15b2b423342f1e9c278002514edcc3dfbb51359"
 metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "3a125e342d3a410f67643d264c097501cb10723fe5244321ef2ee055956b0678"
+hash = "e3ae3cf93e08de66ffd7023b70dc0b25238386882d2ec292e84e3e49d4fac290"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "50c7a9d1825bdf0579a4a1e76587db455f0f0dc224543900b118d7c5349c4c03"
+hash = "6567092f5c6e5a1ffaf3d5f414304cfc5e617fbe9644f2420e2b20570c1657c9"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "0a4676b25054d0bd8cc97adc49b2fca2e4af4f2c92fc3dca484c7fea169aebff"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
 metafile = true
 
 [[files]]
@@ -425,5 +425,5 @@ hash = "e2c664edf5c310013afe00887a07c1d457acc7ce580df037686f5d8840c7500f"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "170a8817f93b22938e19e75afc44cc9d42f0ced575ce3c3dc9b3a2fee102f657"
+hash = "8f8f05944c6f7cebd1d8ca6f07edb8a809575f79cd672f84e359c8153174a3a2"
 metafile = true
