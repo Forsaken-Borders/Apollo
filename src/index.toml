@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
-hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "e3ae3cf93e08de66ffd7023b70dc0b25238386882d2ec292e84e3e49d4fac290"
+hash = "520b65ed0401ad37b7429426cc16cac97641182d68b569b2cc5bb8017ce317cd"
 metafile = true
 
 [[files]]
