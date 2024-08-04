@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
+hash = "4c9dc2e5b7444705e49ec6b93cffc326f6bb592890a0af257e10948c76ec98a8"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "520b65ed0401ad37b7429426cc16cac97641182d68b569b2cc5bb8017ce317cd"
+hash = "54b25c89d96e0e8207467090e7770dd0401fe0d2cc9b4b319d39505d6720a6ad"
 metafile = true
 
 [[files]]
