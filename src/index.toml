@@ -22,7 +22,7 @@ hash = "5da4eb2ba4994c75d2d379dd8d6040da12d6bd9b5f10b8a90836acfb1a8a7907"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "1be52fb2cc3326852135b2edc897507da41480abaa7c8d08dfbc87c77a8354c5"
+hash = "95bc4128a357ce2144f7d87da25de85a2235131e459b68b7739d0a049d59c0bb"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7609db7b10ab94c8f9e1e0899667768f7bad26013be5dc2bd86b2ff86fe9886b"
+hash = "15417993872c349a898f0ed86373927231994ff6d6e22e6b6919c71a39f08eac"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
+hash = "38f5bd2f9532b6d4c70385e527065c629274703d4712fc5ea3e3e8e6a865c0c8"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7b79a6c0397c3e1f5811508cf89cd99dea35d6a5363c247731b63a974eeaf7ee"
+hash = "fc765e6f815902c5328056e8872e57c12e0c39fa308fbe894f5a7174b0654c4d"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "54b25c89d96e0e8207467090e7770dd0401fe0d2cc9b4b319d39505d6720a6ad"
+hash = "e55157a291fc6bbe55bc2e7f55f792eabc005562c2c67148b8c859f74be201f3"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "6567092f5c6e5a1ffaf3d5f414304cfc5e617fbe9644f2420e2b20570c1657c9"
+hash = "21ef3468b22dd9b211a0186daf9e403e1fabf52fa652034634ca0a832d209e8d"
 metafile = true
 
 [[files]]
