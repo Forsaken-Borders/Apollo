@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "15417993872c349a898f0ed86373927231994ff6d6e22e6b6919c71a39f08eac"
+hash = "dbec4676cb16f1571a6fbce29972a45efcee6c34568a59444d77437204efa75c"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "38f5bd2f9532b6d4c70385e527065c629274703d4712fc5ea3e3e8e6a865c0c8"
+hash = "197118fe17a2d7fd0d2ac4547006fd34d59eab27f8299d62109c8edfe45c575b"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "c0b641b5e3f1f71278913888d83d8a7727f4fe058a60d8f99d89fb388c7c473f"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d17bc5e3243a941a301ee276072f583230f3d150f156e24a04103841aa216ed6"
+hash = "6e55335d306a9dda3fe9ddf14413e51df2b83289cdd72fab537949ab038ee657"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e44e1b27a775b9bc5a183f36424b656bd90a47996ef0dd9469dac95531f068c6"
+hash = "81a2b166d15d07ae036deed5092bb02f10ad982a607682bc18ff26128040ada2"
 metafile = true
 
 [[files]]
