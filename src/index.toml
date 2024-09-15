@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5f4666d8d30ad23a6d1ea39d5ef0491cdf97524b4f74e6aec40fa5882d969616"
+hash = "dcd2bbc90bce16473ba4b19dc31a810854303558f258f1c978b5d5d8c7da0787"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ee7d8e0310c9c5fd9043abe0ddd28a47f36bc08be0c115f9bb3f9c60c49fdd14"
+hash = "423d0e680b2a16210cf8482101d0b1d8d9ff1c2659db04fac2b3cb91d747f1aa"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "db6fe581e772258ee94877527a9b24d586afcdf7408919d4220e64e1eb4353ca"
+hash = "f4538fb5e673af9b5726616db9b598088fcf44a88fc304ac712ba3b0f3578e3d"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "81a2b166d15d07ae036deed5092bb02f10ad982a607682bc18ff26128040ada2"
+hash = "ac864c3d643a5dd028abbd6a417109ecc3219220cc8e1e3ab7badb04e0450277"
 metafile = true
 
 [[files]]
