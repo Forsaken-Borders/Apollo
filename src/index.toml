@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c7fe4d598640d2c4365ff7c5b7f6a908d2e34e08a6f4f9818ea0dc43da90bbda"
+hash = "034dc23caa270b175e780b57c1beddf349683fbe4f8964e0ac0dcf81e9b6bf95"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
+hash = "22f9aee5134b28db530af1125656014a5a56bd3bff5acbe7fc2746cfb857af81"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "e55157a291fc6bbe55bc2e7f55f792eabc005562c2c67148b8c859f74be201f3"
+hash = "704a3b6b1a9b2bf43f26ec710437ad17e5e2b27b28dd393aef9a1cbff2221f41"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "21ef3468b22dd9b211a0186daf9e403e1fabf52fa652034634ca0a832d209e8d"
+hash = "f8fb2292123c0c8bbaf45417ff1af835829b035d5210700274dd9dd1ee2b654c"
 metafile = true
 
 [[files]]
