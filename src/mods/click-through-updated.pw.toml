@@ -1,0 +1,13 @@
+name = "Click Through Updated"
+filename = "click-through-0.1.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kodT9HQf/versions/dD4OJCja/click-through-0.1.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "b7f3a11789830b7180deed2cd3a7537fa9069d88"
+
+[update]
+[update.modrinth]
+mod-id = "kodT9HQf"
+version = "dD4OJCja"

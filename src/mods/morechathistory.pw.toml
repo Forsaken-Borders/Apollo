@@ -1,13 +1,13 @@
-name = "MoreChatHistory"
-filename = "morechathistory-1.3.0.jar"
+name = "More Chat History"
+filename = "morechathistory-1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/PLfxrDkh/morechathistory-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/3siYJiWG/morechathistory-1.3.1.jar"
 hash-format = "sha1"
-hash = "346cce5cb5d89e676d8ed0dca05522369063b3c3"
+hash = "b4337ef9dc0a6cdf31d8f3df68a6542f64f3625e"
 
 [update]
 [update.modrinth]
 mod-id = "8qkXwOnk"
-version = "PLfxrDkh"
+version = "3siYJiWG"

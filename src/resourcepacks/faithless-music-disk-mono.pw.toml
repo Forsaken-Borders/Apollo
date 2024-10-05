@@ -1,8 +1,0 @@
-name = "Faithless Music Disk Mono"
-filename = "Faithless Music Disc Mono.zip"
-side = "client"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/838900598417653760/1096303461458526208/MusicDisc_Mono.zip"
-hash-format = "sha256"
-hash = "96f221994640156844535263d0c147f07d6f32f114ab7f72fe46a7ca7c1c9d3c"

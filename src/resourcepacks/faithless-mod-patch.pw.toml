@@ -1,8 +1,0 @@
-name = "Faithless Mod Patch"
-filename = "Faithless Mod Patch.zip"
-side = "client"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/1122030599306219610/1148811895344734238/Faithless_Mod_Patch.zip"
-hash-format = "sha256"
-hash = "0501637793deff060a8f792b510086364656b557a149062f87cef9277942cf42"
