@@ -1,0 +1,13 @@
+name = "Discordo"
+filename = "discordo-0.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fSAB8bAX/versions/IGuXLn97/discordo-0.2.1.jar"
+hash-format = "sha1"
+hash = "f535c95c346f7d4cc63964ff5a007863a86a24e6"
+
+[update]
+[update.modrinth]
+mod-id = "fSAB8bAX"
+version = "IGuXLn97"

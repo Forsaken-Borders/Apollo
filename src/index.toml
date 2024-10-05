@@ -182,6 +182,11 @@ hash = "a7a9eee6eafe7a6e6a17bc9c00738be97e476639561e08c42c8a6d64854c17f2"
 metafile = true
 
 [[files]]
+file = "mods/discordo.pw.toml"
+hash = "db0e5b7316909ff7a3b8f268ed1ae82b03e77d91d3078857eb7f7377425d14e1"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "c60b48beafb80503417feb7400e091e1651ca966851ffb763780f4278987d2ae"
 metafile = true
