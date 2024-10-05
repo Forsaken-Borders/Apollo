@@ -34,7 +34,7 @@ hash = "1df1ab7de7dc07b35028513d19ae5283f0e66290e687e2ed11034249e211a87b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "33841af841aff31e5ed3a2eea709124179459444627b6e1411754ee754ba0b17"
+hash = "073524495b171b1e35856f7344c8bdd6bb56a77a2c95dd6167290da3eba62300"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -454,4 +454,14 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "6a22d14251ccfb61007da299c1040bcb3904bd0cc43e5d1ba96536b94ed43036"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f18e6196d79be05795c41658af6ea9ad77457bb65058bdd65a0ef5d3c6f30ca0"
 metafile = true
