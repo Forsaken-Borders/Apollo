@@ -432,6 +432,11 @@ hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
