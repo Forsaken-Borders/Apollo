@@ -397,6 +397,11 @@ hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "f37f9461277d8cd0cee4b2f837dbc02963252add1633ed81ce3d7652b7df8571"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "9071356a9c92d249941a89c5ef62a18041846ef3bb8ecb0396defaa6f811ab51"
 metafile = true
