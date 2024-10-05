@@ -118,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "95c94d93fcdd5f07f3a71790d0c50f5f75ef0563521d3c9d1405f957e3f0e7f5"
+hash = "8b349cb8a7bdc093c4f14dc6246cef16491e08ca61360eb6c4720caa99b5a36c"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "aa6914e50a5bc531fc8c4f6d3ad8244e06335ee5068ec6ad879af1e80d5294ba"
+hash = "7f2dd0368f0a78a2ebe680de14c52b21285a985d3ccfc88f9659872666f9df13"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d3e29c543dd1ff3acfe8c0a044e391237069d4023637be567516ebd6b832b02b"
+hash = "bab62422b2e81a446af6aa1bef6f35febcba6d81f35bf6d9f3caa1f6cbca7183"
 metafile = true
 
 [[files]]

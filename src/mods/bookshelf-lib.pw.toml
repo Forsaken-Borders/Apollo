@@ -1,6 +1,6 @@
 name = "Bookshelf"
 filename = "bookshelf-fabric-1.21.1-21.1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/J1LqaD6A/bookshelf-fabric-1.21.1-21.1.5.jar"
