@@ -252,6 +252,11 @@ hash = "fdf3368940666ce88dd176501311e2a9e476d001c55104d3e8d2c8e69dc9b557"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "ee7660b0580e7920853ef8f0518144cb497e62c6674d8b0021e210b80553f565"
+metafile = true
+
+[[files]]
 file = "mods/followers-teleport-too.pw.toml"
 hash = "c9497a18ed577280959044e1ea054904b877671ea3b2e65b11e035c9cf161c17"
 metafile = true
@@ -264,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/fullbright.pw.toml"
 hash = "803f112161f2a1e7cb9abd7bda38e830360f0a01fe2395be261bee350c3627a6"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "cd152f9a69cd55698091bc776410327033909c5daaf0f064833b1c95793a226b"
 metafile = true
 
 [[files]]
