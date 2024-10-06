@@ -30,11 +30,15 @@ hash = "13fd4385072407c196a7b9d8be554f18afceab44249eb28ad41d49da26fe97bb"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "51f01fb16d4047db393ce57b16330ef68ce70c741a6d13325fe6be82eca17e33"
+hash = "1df1ab7de7dc07b35028513d19ae5283f0e66290e687e2ed11034249e211a87b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "bbee2050e5bf04bd54d2ab067b74366cac75e4414d7b4f2c5e17146a8bff3b9c"
+hash = "632d612112a4d3fcc6069f5bf7933f2329a9c6b730090ae8a5ce67646fa02efb"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "b2750704fae6874bc4c354dbbe8f0c82c8ec28fd8125937d09d545528fd236c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
