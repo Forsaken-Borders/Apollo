@@ -187,6 +187,11 @@ hash = "798368990e285406bf81744842f2a156b27349365f84088e280001bd9df978d1"
 metafile = true
 
 [[files]]
+file = "mods/easyauth.pw.toml"
+hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "2b36f02811ed714fc6a3aacb5266eba3449d1b659bda8c8177b58a9cec7d8f70"
 metafile = true
@@ -484,6 +489,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "088b6cddbd6ed317d9e527d949b3144e7bc1c35355c3f9ec4caa7cb96815965f"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "9551a3adda2e5c7d0070a8cae2dfae82cc5aa5f650fe317fe97c4148981692f1"
 metafile = true
 
 [[files]]
