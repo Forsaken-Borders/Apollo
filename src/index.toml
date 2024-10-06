@@ -47,6 +47,11 @@ hash = "e69e4f7a6814fbe208dab0cb1a2f0e6ccf20f11793479ccae0d53fa0ae853b51"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "ac3444154dfbd155eaa377eb00fdab860d7436249f73a9ef29acf7d4fb3c38d7"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "20f677dc377f5069c8da4636cb7bcf068fbca27a60fda63ac9e2fe273fa9f765"
 metafile = true
@@ -172,8 +177,8 @@ hash = "7f2dd0368f0a78a2ebe680de14c52b21285a985d3ccfc88f9659872666f9df13"
 metafile = true
 
 [[files]]
-file = "mods/death-finder.pw.toml"
-hash = "3b9da6e082bdda5a04995d31490133f996d1da725e8d3c32fed057f12c53e59b"
+file = "mods/crying-ghasts.pw.toml"
+hash = "cd4e12eee59e27cf07694bd94ae64dfdf308237a28bb25d5302761a7b72dc289"
 metafile = true
 
 [[files]]
@@ -242,6 +247,11 @@ hash = "1e4034d327b8fde6937692ea0bfd91c571b27669624c1b429fe349415233b72f"
 metafile = true
 
 [[files]]
+file = "mods/followers-teleport-too.pw.toml"
+hash = "1068033be1b0aeb580da1c283530e065bd4e708b2879f1862d5f4d37de271d93"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2645fbb800b5c53e3e8937489dcf036b9c40cfdc3d8674d6231a5f0fd0a7aeff"
 metafile = true
@@ -257,8 +267,18 @@ hash = "6e4d625a8bd6dba83cbe603b7fc95aea226b054c825012b3b17ec3cdf23dd387"
 metafile = true
 
 [[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "a02c80b5c54afb20e514b4db1d992c260f478880c19c78a68a4eb601ac2588fc"
+metafile = true
+
+[[files]]
 file = "mods/head-in-the-clouds.pw.toml"
 hash = "678c6215a26d45947a2046d0f0267fc5a21dac84ce535fd974718c6b728c0f66"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "b0141f2876b76cb8db24959929e2643517e32615891a78484ed070363f32c8a7"
 metafile = true
 
 [[files]]
@@ -289,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/leashable-players.pw.toml"
+hash = "4d6307bd5c52cfc8b8455be4dc00da9387134752b4dc60e215bd79b5570a0c12"
 metafile = true
 
 [[files]]
@@ -327,6 +352,16 @@ hash = "03075a32803d3cd0e574a043156599231d7d01661179b1c4c1a527ea7a1c539d"
 metafile = true
 
 [[files]]
+file = "mods/mineral-chance.pw.toml"
+hash = "77af4685fae84c6a9f21518319343ab9cc3ac8d30ea0082f2228df36a031f115"
+metafile = true
+
+[[files]]
+file = "mods/mod-loading-screen.pw.toml"
+hash = "62b1d0123bd16f728ba8808b2f4c7d4d647acebeb4a81d28c3719809af5d03eb"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e2cc568688c5bcd0e41235681bc34c5c9849f214f65b43324bc25022d9ad8c80"
 metafile = true
@@ -342,6 +377,11 @@ hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "aaa0c9a7f376101ba03bd914380219146e81f326b881f5c30bede7914146d37c"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "90f207724a47d6b32f45c6a53da2539f544df944709418761ec8ede01a401a47"
 metafile = true
@@ -352,8 +392,18 @@ hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+hash = "ef285469b83ef196f111d829b8521815a66674cc1d8afb4b1afedbb996b10841"
 metafile = true
 
 [[files]]
@@ -407,6 +457,16 @@ hash = "138929792a63cb1ab3794f91703149555a9ca94bb64011b8f0db62f8b55d9bea"
 metafile = true
 
 [[files]]
+file = "mods/railoptimization.pw.toml"
+hash = "17348559d0deb79189d92e2cd8d4090cd80cdb51a48a86b7049936cd5e81327d"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+hash = "f7f0f99e4e0fb3db6deb9ff246527ad1de08d175b7d500cdcb7a0ba0dfa0e856"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "c803d271faae47b193e3ba9ca611894252bf55d4c6aab303f56bcf6b183056c7"
 metafile = true
@@ -437,6 +497,11 @@ hash = "3ea99db242c72753682ecb03faf2d367e1cbf8de0b5cbb4691180d107b06a8fa"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "2dda32a2725644942fd5526b57593be51425e254b9725d653e981d1d6ee3ce7f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
 metafile = true
@@ -444,6 +509,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "621e56ad677649509141a20b4a4a6042ea30af69c1527153681f8f2c4cf0104b"
 metafile = true
 
 [[files]]
@@ -457,13 +527,38 @@ hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
 
 [[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "396f20ebd7de85729585c156a08356282addd011d04a13ca6e130dfe82f0e7e2"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/unloaded-activity.pw.toml"
+hash = "97d0d96c56f4a24e7cf90fa9872bbfc118eb4d96cc0342c28da84a9d15f1d7b1"
+metafile = true
+
+[[files]]
+file = "mods/villager-names-serilum.pw.toml"
+hash = "a812b28139677f41b0e351bffa766dca187902d326c2921ebd237ea19075400f"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "a59bb460cf1ca6b926b4e0e189b11cdf3d16de3bb8f7deb34cd7b5412c8abdf4"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "4bff412d3a71ce97141788f987fb30f50a97b86896207de205d571bc78027e86"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "ef73cfa795b7291f34d8fa4676dd3e02b5839d1e9d7771e192f23b15becc335a"
 metafile = true
 
 [[files]]
