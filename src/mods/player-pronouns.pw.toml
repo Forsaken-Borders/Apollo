@@ -1,0 +1,13 @@
+name = "Player Pronouns"
+filename = "player-pronouns-2.2.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gE0ebYRh/versions/cTmLgjwB/player-pronouns-2.2.0%2B1.21.jar"
+hash-format = "sha1"
+hash = "464af699fe7672a53b8c67b1a1dbf6e30d8ec94c"
+
+[update]
+[update.modrinth]
+mod-id = "gE0ebYRh"
+version = "cTmLgjwB"

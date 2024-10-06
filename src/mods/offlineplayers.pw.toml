@@ -1,0 +1,13 @@
+name = "OfflinePlayers"
+filename = "offlineplayersreworked-1.0.8.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BWYrlN8Z/versions/v22fdb5R/offlineplayersreworked-1.0.8.jar"
+hash-format = "sha1"
+hash = "4b36f26bb1970d5bf30103d87ea7d45037377db6"
+
+[update]
+[update.modrinth]
+mod-id = "BWYrlN8Z"
+version = "v22fdb5R"

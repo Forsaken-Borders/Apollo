@@ -1,0 +1,13 @@
+name = "Offline Player Teleport"
+filename = "offlineplayerteleport-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TxE1gqsh/versions/Q8XAKZDf/offlineplayerteleport-1.2.0.jar"
+hash-format = "sha1"
+hash = "ef4abcbd0e457ba94b5526ecb4093eb12fb34c94"
+
+[update]
+[update.modrinth]
+mod-id = "TxE1gqsh"
+version = "Q8XAKZDf"

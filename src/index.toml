@@ -362,6 +362,16 @@ hash = "b916af8da349cad2705e45ebccfd3e7c1960eba2876c0ac84de221c76a9f2d70"
 metafile = true
 
 [[files]]
+file = "mods/offline-player-teleport.pw.toml"
+hash = "947a73f9da83d1e207d75cccc46ee5e3ca5348a098298422ecfb0f16e346ecf5"
+metafile = true
+
+[[files]]
+file = "mods/offlineplayers.pw.toml"
+hash = "0bb95e67d873858dd4d072a428f1882a0ca538e4e852be8c89a2558b624e5172"
+metafile = true
+
+[[files]]
 file = "mods/optipainting.pw.toml"
 hash = "dc894dc23a92b1b03ac04466e3f4a3f4d33b52a707daed0f7d9d50e05c8aecdb"
 metafile = true
@@ -379,6 +389,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "419d8d3c7c4bb9485d69b107ec3e0858bb4d2137c7268ae4edd6490deacca5f4"
 metafile = true
 
 [[files]]
