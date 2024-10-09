@@ -7,15 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
+using ForsakenBorders.Apollo.Tools.Updater.Packwiz;
 using Humanizer;
-using OoLunar.ForsakenBorders.Apollo.Updater.Packwiz;
 using Serilog;
 using Serilog.Core;
 using Serilog.Sinks.SystemConsole.Themes;
 using Tomlyn;
 using Tomlyn.Syntax;
 
-namespace OoLunar.ForsakenBorders.Apollo.Updater
+namespace ForsakenBorders.Apollo.Tools.Updater
 {
     public sealed class Program
     {
@@ -84,27 +84,43 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
             }
 
             // Parse the old state of the modpack
-            (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"checkout {latestTag} .", logger);
+            (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"restore --staged --worktree --source={latestTag} .", logger);
             if (exitCode != 0)
             {
                 logger.Error("Failed to checkout latest tag: {Output}", output);
                 return exitCode;
             }
 
+            // Cleanup any stray files
+            (output, exitCode) = await ExecuteProgramAsync(GitBinary, "clean -fdx .", logger);
+            if (exitCode != 0)
+            {
+                logger.Error("Failed to clean the working directory: {Output}", output);
+                return exitCode;
+            }
+
             IReadOnlyList<PackwizEntry> oldEntries = await GrabPackwizEntriesAsync(logger);
 
             // Parse the new state of the modpack
-            (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"checkout {latestCommit} .", logger);
+            (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"restore --staged --worktree --source={latestCommit} .", logger);
             if (exitCode != 0)
             {
                 // Try checking out the latest tag instead
                 logger.Warning("Checking out latest tag due to failure to checkout latest commit: {Output}", output);
-                (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"checkout {latestTag} .", logger);
+                (output, exitCode) = await ExecuteProgramAsync(GitBinary, $"restore --staged --worktree --source={latestTag} .", logger);
                 if (exitCode != 0)
                 {
                     logger.Error("Failed to checkout latest tag: {Output}", output);
                     return exitCode;
                 }
+            }
+
+            // Cleanup any stray files
+            (output, exitCode) = await ExecuteProgramAsync(GitBinary, "clean -fdx .", logger);
+            if (exitCode != 0)
+            {
+                logger.Error("Failed to clean the working directory: {Output}", output);
+                return exitCode;
             }
 
             // Update the modpack
@@ -118,6 +134,37 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
             // Parse the new state of the modpack
             Version modpackVersion = await GrabModpackVersionAsync(logger);
             IReadOnlyList<PackwizEntry> newEntries = await GrabPackwizEntriesAsync(logger);
+
+            // Find the updated mods
+            // Exclude removed mods
+            foreach (PackwizEntry entry in newEntries.Where(newEntry => oldEntries.Contains(newEntry) && oldEntries.All(oldEntry => oldEntry.Filename != newEntry.Filename)))
+            {
+                string? updateString = null;
+                if (entry.Update is not null)
+                {
+                    if (entry.Update.Curseforge is not null)
+                    {
+                        updateString = $"curseforge add -y --addon-id {entry.Update.Curseforge.ProjectId}";
+                    }
+                    else if (entry.Update.Modrinth is not null)
+                    {
+                        updateString = $"modrinth add -y --project-id {entry.Update.Modrinth.ModId}";
+                    }
+                }
+
+                if (updateString is not null)
+                {
+                    // Readd all mod dependencies
+                    (output, exitCode) = await ExecuteProgramAsync(PackwizBinary, updateString, logger);
+                    if (exitCode != 0)
+                    {
+                        logger.Error("Failed to readd {Mod}: {Output}", entry.Filename, output);
+                    }
+                }
+            }
+
+            // Refresh for any new mods
+            newEntries = await GrabPackwizEntriesAsync(logger);
 
             // Print the changelog to console and update the modpack version
             await GenerateChangelogAsync(modpackVersion, oldEntries, newEntries, logger);
@@ -189,7 +236,8 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
                         Environment.Exit(LogAndExit(logger, modSyntax.Diagnostics));
                         return null;
                     }
-                    else if (!modSyntax.TryToModel(out PackwizEntry? entry, out DiagnosticsBag modDiagnostics, new TomlModelOptions()
+
+                    if (!modSyntax.TryToModel(out PackwizEntry? entry, out DiagnosticsBag modDiagnostics, new TomlModelOptions()
                     {
                         ConvertPropertyName = InflectorExtensions.Kebaberize,
                         IgnoreMissingProperties = true
@@ -198,10 +246,8 @@ namespace OoLunar.ForsakenBorders.Apollo.Updater
                         Environment.Exit(LogAndExit(logger, modDiagnostics));
                         return null;
                     }
-                    else
-                    {
-                        currentVersions.Add(entry);
-                    }
+
+                    currentVersions.Add(entry);
                 }
 
                 return currentVersions;
