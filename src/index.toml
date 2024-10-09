@@ -276,6 +276,11 @@ hash = "051fa06d39d7be9097cf2c86da297fda796532938ed4e3bdbe01ae01d0efb8b2"
 metafile = true
 
 [[files]]
+file = "mods/fantasy.pw.toml"
+hash = "404c377c1fc857adc5b1a5130c9149577e8eab5f139cd37ff57ecf70ffec0003"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "29924dca0fc8d1e64f4d9cd1c377607d34a831c37822075b3f5bf3834471baa3"
 metafile = true
@@ -293,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "fdf3368940666ce88dd176501311e2a9e476d001c55104d3e8d2c8e69dc9b557"
-metafile = true
-
-[[files]]
-file = "mods/first-join-message.pw.toml"
-hash = "7dfe4627ecbc5f914bf6c8a0f2e2965b1700659df73c9c744518aee6969a70ba"
 metafile = true
 
 [[files]]
@@ -491,11 +491,6 @@ hash = "7fa3f2f798b04f20573d7b517aa582a9bd211049ebd1335863338cf4319b7fcc"
 metafile = true
 
 [[files]]
-file = "mods/nonetherite.pw.toml"
-hash = "b916af8da349cad2705e45ebccfd3e7c1960eba2876c0ac84de221c76a9f2d70"
-metafile = true
-
-[[files]]
 file = "mods/offlineplayers.pw.toml"
 hash = "5dd9396231f24e79fde72a9bc87fd157f0b5d530e9556ff948a47f76f1f5edb7"
 metafile = true
@@ -568,11 +563,6 @@ metafile = true
 [[files]]
 file = "mods/secret-spectator.pw.toml"
 hash = "422ef7161d5f5dc34a6153f8abde62dba5b425326f3c323d5b8f9a6b8caa2b33"
-metafile = true
-
-[[files]]
-file = "mods/server-chat-log-history.pw.toml"
-hash = "13af36cfc2b0479e80512fce8a9160d0869f318e5268bc798692e392d52d22fb"
 metafile = true
 
 [[files]]

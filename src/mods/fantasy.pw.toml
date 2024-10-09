@@ -1,0 +1,7 @@
+name = "fantasy"
+filename = "fantasy-0.6.4+1.21.jar"
+
+[download]
+url = "https://github.com/NucleoidMC/fantasy/releases/download/v0.6.4%2B1.21/fantasy-0.6.4+1.21.jar"
+hash-format = "sha256"
+hash = "c1cfdee35ca5471e54943b7a97fe8cf9dea723c8c986740b39d1af6e8ca2ea95"
