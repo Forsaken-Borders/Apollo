@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e35119f9a16cfcb7f88a54fccd9a44db2ba3ec7387f2789894416eb563fd7382"
+hash = "3ccb62d5b8f489c81e706048c2117fe5c255c7e610f818c0af685ee26817f510"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "2b36f02811ed714fc6a3aacb5266eba3449d1b659bda8c8177b58a9cec7d8f70"
+hash = "a4c5c4dd2de1d3c6a91fa16e051fa9b51e2f92c31048e65cc4c181cb1dd5e98b"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "cd152f9a69cd55698091bc776410327033909c5daaf0f064833b1c95793a226b"
+hash = "2ba1fca69197bbdb77df81c7d640e895c8fe4df1e372c6d75332bf253e79ff04"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e8591cd7c781f48b66fcd2c49c80ee162b6d7023e060f9ca5ffaee7e05cc6565"
+hash = "81c5502f443d612e1df191a85316587e1dab248e7855201cb2f8cd78061cf19b"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "ccf5fe8b6c310a3f26ff40495dbd1884c1f2b097ec54063493b7248a53282f1b"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "088b6cddbd6ed317d9e527d949b3144e7bc1c35355c3f9ec4caa7cb96815965f"
+hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
 metafile = true
 
 [[files]]
