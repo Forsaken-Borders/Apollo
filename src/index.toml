@@ -636,11 +636,6 @@ hash = "8065d5d410ac1732586237b3678aa55c8094d49773b758dfb2c38223600e7120"
 metafile = true
 
 [[files]]
-file = "mods/syncedadvancements.pw.toml"
-hash = "4244e03151582c11258d22d67e0760a8da47eaa66045be3a118d76fa9804e36b"
-metafile = true
-
-[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "aeaddc3079ff5c180495b1721ede27d87bd1ef717d8623f4fac4784cbed3419e"
 metafile = true
