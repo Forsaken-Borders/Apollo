@@ -43,7 +43,7 @@ jobs:
           fi
 
           # Update the modpack
-          dotnet run --project ${{ github.workspace }}/tools/ForsakenBorders.Apollo.Updater/ForsakenBorders.Apollo.Updater.csproj
+          dotnet run --project ${{ github.workspace }}/tools/ForsakenBorders.Apollo.Tools.Updater/Apollo.csproj
 
           # Go into the modpack directory
           cd ${{ github.workspace }}/src
