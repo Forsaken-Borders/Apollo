@@ -76,6 +76,11 @@ hash = "15362f0288935041938b2a4428592a34997a2a897482dec73f5b4a9bd1a6b940"
 metafile = true
 
 [[files]]
+file = "mods/beacon-waypoints.pw.toml"
+hash = "b41def5182f1512d388d06f0498db28134b2d98e4825463b39b7a25112682061"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "c394b32bf31dd06a7afec731b4034dae070042abe7ad78f764d7e6dab51ddd5c"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "23ff99c403531967dea9de0d8022c2a74abc865661615470b837a7344aef1304"
+metafile = true
+
+[[files]]
+file = "mods/creeper-healing.pw.toml"
+hash = "ce2075b0d2611044b56eceaed0919672ec621400d40d34cf2e9d2840af7f66ec"
 metafile = true
 
 [[files]]
@@ -438,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "eb9611ea2482c61bfb5616eed361f52c55d5d49a1235bb0167ff872c0d4d076c"
+metafile = true
+
+[[files]]
+file = "mods/monkey-config.pw.toml"
+hash = "630bd0430ec1e60f5c3393b852a9844d5867016146e9caba7b8335e1517aa1c4"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Beacon Waypoints"
+filename = "beaconwaypoints-1.0.0-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRwhijps/versions/qscUXku7/beaconwaypoints-1.0.0-fabric.jar"
+hash-format = "sha1"
+hash = "3cb10dd2df8ed493b470594a4ff8a5e9d6eb7a19"
+
+[update]
+[update.modrinth]
+mod-id = "bRwhijps"
+version = "qscUXku7"
