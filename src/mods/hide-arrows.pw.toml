@@ -1,0 +1,13 @@
+name = "Hide Arrows"
+filename = "hide-arrows-v1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4adMMXYm/versions/wsUCoeJ4/hide-arrows-v1.3.jar"
+hash-format = "sha1"
+hash = "d65f40bcd6a0e22ad7ab888d45d6125eea6f98ff"
+
+[update]
+[update.modrinth]
+mod-id = "4adMMXYm"
+version = "wsUCoeJ4"

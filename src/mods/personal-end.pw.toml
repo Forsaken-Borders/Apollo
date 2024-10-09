@@ -1,0 +1,13 @@
+name = "Personal End"
+filename = "personal-end-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/misYuYgh/versions/XrKa8Bud/personal-end-1.2.0.jar"
+hash-format = "sha1"
+hash = "9d8274aa590fef1a2e6058a559dc2108b29a5818"
+
+[update]
+[update.modrinth]
+mod-id = "misYuYgh"
+version = "XrKa8Bud"

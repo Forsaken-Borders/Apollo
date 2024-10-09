@@ -1,0 +1,13 @@
+name = "ProjectileDing"
+filename = "projectileding-fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/INLXGXFI/versions/oZeTpNGH/projectileding-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "1fd6c2583f256b702dbbd75f621c83dd4e28c7af"
+
+[update]
+[update.modrinth]
+mod-id = "INLXGXFI"
+version = "oZeTpNGH"

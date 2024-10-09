@@ -161,6 +161,11 @@ hash = "9a3a1a5da0d8b062eb5fc992562db7eca595ab1f7f57c8677ac09635832e2dec"
 metafile = true
 
 [[files]]
+file = "mods/conduits-prevent-drowned.pw.toml"
+hash = "ed5ec4c39e3955cd9916e44b3b9c65160941b6aaac81b91803fef4d08ecdf709"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "27fa211d3e56415d0fb0847a2d3f6f0be1bfcb918e565e574ccd548f3f755dd2"
 metafile = true
@@ -186,13 +191,28 @@ hash = "bff75229d8326e385c4bb0d590411e2dc6bac71a6ed9e479b21641c6b35b97d2"
 metafile = true
 
 [[files]]
+file = "mods/death-backup.pw.toml"
+hash = "85282b31f3a98c66be09e9af2730202ad786b30e6049ccb5c5d49c8c538f2e3d"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "798368990e285406bf81744842f2a156b27349365f84088e280001bd9df978d1"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaltracker.pw.toml"
+hash = "0214d44c9786bfd4329a33a0d896cbc024674d0904dbe08336b7d48e27312fe2"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
+metafile = true
+
+[[files]]
+file = "mods/enchanter-fix.pw.toml"
+hash = "d025428e63019154df7263f69bc2c3aebbcf92a2c5c8aca85f69646e3caef42a"
 metafile = true
 
 [[files]]
@@ -261,6 +281,11 @@ hash = "fdf3368940666ce88dd176501311e2a9e476d001c55104d3e8d2c8e69dc9b557"
 metafile = true
 
 [[files]]
+file = "mods/first-join-message.pw.toml"
+hash = "7dfe4627ecbc5f914bf6c8a0f2e2965b1700659df73c9c744518aee6969a70ba"
+metafile = true
+
+[[files]]
 file = "mods/floodgate.pw.toml"
 hash = "ee7660b0580e7920853ef8f0518144cb497e62c6674d8b0021e210b80553f565"
 metafile = true
@@ -273,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "69360e5ed734eee0e5623e0ed320a89501088b0fa83a1d7f1879edd6703fa17c"
+metafile = true
+
+[[files]]
+file = "mods/foxglow.pw.toml"
+hash = "f3004e1930e91514b5c78c2e28004b5c04cdf2aaca946855f90ba8b323d4de93"
 metafile = true
 
 [[files]]
@@ -311,6 +341,11 @@ hash = "e85f6947159f6a6bd56209f48116d0f156267bbd514744e16f9ca74f670d9c4a"
 metafile = true
 
 [[files]]
+file = "mods/hide-arrows.pw.toml"
+hash = "7abd3accd26494fe37c84917bdbc5bb13f5c9aa154a84f37d53368d75a25d7fc"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "88d504ca7157466de1a296c456a95e20412bf14bec48e606499fe3319a9ddbab"
 metafile = true
@@ -318,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "f8372cba601b3c38f58fbcaa3f8f093471ec4d8440bca0363d41da422c6b96d1"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
 metafile = true
 
 [[files]]
@@ -451,6 +491,11 @@ hash = "ccf5fe8b6c310a3f26ff40495dbd1884c1f2b097ec54063493b7248a53282f1b"
 metafile = true
 
 [[files]]
+file = "mods/personal-end.pw.toml"
+hash = "a47b132d66f6fc377e52690bd9f2491ecd8e7936eff809065ebdd736989d0e37"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "0b13a6bc0eb7d984dfb7150ad1e82ebf39d651ed01522e5f34c970f3efe8729f"
 metafile = true
@@ -468,6 +513,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "f865d16ce7d7e9df3afceca357d14d8c6a5065857487361d055ffac2c06f394a"
+metafile = true
+
+[[files]]
+file = "mods/projectile-ding.pw.toml"
+hash = "5e23a368294185db2785bee56b8fa72e60e2e0f3176420773da76ba468c39bf8"
 metafile = true
 
 [[files]]
@@ -496,6 +546,21 @@ hash = "51ab75f65e28a29c2a1b9f325d248278da337e97c968941d33211e028614343c"
 metafile = true
 
 [[files]]
+file = "mods/secret-spectator.pw.toml"
+hash = "422ef7161d5f5dc34a6153f8abde62dba5b425326f3c323d5b8f9a6b8caa2b33"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-log-history.pw.toml"
+hash = "13af36cfc2b0479e80512fce8a9160d0869f318e5268bc798692e392d52d22fb"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "152da05a4418fa42efd27419ad5a2e4c95ec036d11b88f451d73c6704230c522"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "bb3ad8120da2925c843fa86068421649c7c1bcf71a667fc345bc572d257a3184"
 metafile = true
@@ -521,6 +586,11 @@ hash = "cc28759943fcbb2281e39c3034e34da4fdc1ee6cfcf7b78d6ad212424d53d2c3"
 metafile = true
 
 [[files]]
+file = "mods/snowball-and-egg-knockback.pw.toml"
+hash = "4326309e8d480b9f2b59c8ed60b58501c4bf367aa2300d01f2acbaf62a3e2bd6"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "12c8a078a90db9552b664ef413267ef3cbf6237cde20157a2474a507a7bf3030"
 metafile = true
@@ -531,6 +601,11 @@ hash = "01cda3aee3fee4c2b1adf3b90cf3e41c4bcdd07daeb3c52dee89e278c3c014b3"
 metafile = true
 
 [[files]]
+file = "mods/spawnproof-villagers.pw.toml"
+hash = "6f7a3c03ba67576391cefa29c66d566035d05d71b5ddbe2312109389b2687364"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "363daf799768b7508e9090ad21c521a766f4bd26b00f42f8a3bd9b39f8a451f0"
 metafile = true
@@ -538,6 +613,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "8065d5d410ac1732586237b3678aa55c8094d49773b758dfb2c38223600e7120"
+metafile = true
+
+[[files]]
+file = "mods/syncedadvancements.pw.toml"
+hash = "4244e03151582c11258d22d67e0760a8da47eaa66045be3a118d76fa9804e36b"
 metafile = true
 
 [[files]]

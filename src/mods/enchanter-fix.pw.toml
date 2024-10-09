@@ -1,0 +1,13 @@
+name = "Enchanter Fix"
+filename = "enchanter_fix-1.0.1+mc1.20+.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNE5j3Te/versions/88tmro0h/enchanter_fix-1.0.1%2Bmc1.20%2B.jar"
+hash-format = "sha1"
+hash = "9848d0c0482d9c2cc02166df8fb69853ef89eccf"
+
+[update]
+[update.modrinth]
+mod-id = "vNE5j3Te"
+version = "88tmro0h"
