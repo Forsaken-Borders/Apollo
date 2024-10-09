@@ -316,11 +316,6 @@ hash = "f3004e1930e91514b5c78c2e28004b5c04cdf2aaca946855f90ba8b323d4de93"
 metafile = true
 
 [[files]]
-file = "mods/fsit.pw.toml"
-hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
-metafile = true
-
-[[files]]
 file = "mods/fullbright.pw.toml"
 hash = "803f112161f2a1e7cb9abd7bda38e830360f0a01fe2395be261bee350c3627a6"
 metafile = true
