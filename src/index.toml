@@ -571,6 +571,11 @@ hash = "422ef7161d5f5dc34a6153f8abde62dba5b425326f3c323d5b8f9a6b8caa2b33"
 metafile = true
 
 [[files]]
+file = "mods/server-chat-log-history.pw.toml"
+hash = "13af36cfc2b0479e80512fce8a9160d0869f318e5268bc798692e392d52d22fb"
+metafile = true
+
+[[files]]
 file = "mods/sessility.pw.toml"
 hash = "152da05a4418fa42efd27419ad5a2e4c95ec036d11b88f451d73c6704230c522"
 metafile = true
@@ -588,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "9551a3adda2e5c7d0070a8cae2dfae82cc5aa5f650fe317fe97c4148981692f1"
 metafile = true
 
 [[files]]
