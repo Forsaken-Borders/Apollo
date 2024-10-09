@@ -246,6 +246,11 @@ hash = "29924dca0fc8d1e64f4d9cd1c377607d34a831c37822075b3f5bf3834471baa3"
 metafile = true
 
 [[files]]
+file = "mods/fastback.pw.toml"
+hash = "4ca286aab0671af7b70991aaa2a368ed6cb56f3ac1dcea78962f53e3766b506f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "aaad4f1b2f56017174e616998d03895c79b457868dfcc7d308bb1137ca24f1c0"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "69360e5ed734eee0e5623e0ed320a89501088b0fa83a1d7f1879edd6703fa17c"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
 metafile = true
 
 [[files]]
