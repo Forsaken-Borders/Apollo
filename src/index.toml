@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "3ccb62d5b8f489c81e706048c2117fe5c255c7e610f818c0af685ee26817f510"
+hash = "713e4a87b2f84636777b7c6d2e55eff9c8fa9c63016324811d28196938f091b9"
 metafile = true
 
 [[files]]
@@ -321,13 +321,18 @@ hash = "f3004e1930e91514b5c78c2e28004b5c04cdf2aaca946855f90ba8b323d4de93"
 metafile = true
 
 [[files]]
+file = "mods/fsit.pw.toml"
+hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
+metafile = true
+
+[[files]]
 file = "mods/fullbright.pw.toml"
 hash = "803f112161f2a1e7cb9abd7bda38e830360f0a01fe2395be261bee350c3627a6"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "2ba1fca69197bbdb77df81c7d640e895c8fe4df1e372c6d75332bf253e79ff04"
+hash = "3d6e9372a25e9aa310f1f0e1be3070f75bcb6dc80cacc37284706fe66875ed47"
 metafile = true
 
 [[files]]
