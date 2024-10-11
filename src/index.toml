@@ -626,6 +626,11 @@ hash = "8065d5d410ac1732586237b3678aa55c8094d49773b758dfb2c38223600e7120"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "aeaddc3079ff5c180495b1721ede27d87bd1ef717d8623f4fac4784cbed3419e"
 metafile = true
