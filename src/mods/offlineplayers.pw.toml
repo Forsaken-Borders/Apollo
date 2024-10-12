@@ -1,13 +1,13 @@
 name = "OfflinePlayers"
-filename = "offlineplayersreworked-1.0.8.jar"
+filename = "offlineplayersreworked-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BWYrlN8Z/versions/v22fdb5R/offlineplayersreworked-1.0.8.jar"
-hash-format = "sha1"
-hash = "4b36f26bb1970d5bf30103d87ea7d45037377db6"
+url = "https://cdn.modrinth.com/data/BWYrlN8Z/versions/hwbuzMeT/offlineplayersreworked-1.1.0.jar"
+hash-format = "sha512"
+hash = "d102b8cf27727e3724efc380508eb9e3465eccbfe153b91078bf2a78b11e9520f1444b86e54522bfb44dbba97225256cf023685bfbe405dd76d54a37d6691d82"
 
 [update]
 [update.modrinth]
 mod-id = "BWYrlN8Z"
-version = "v22fdb5R"
+version = "hwbuzMeT"
