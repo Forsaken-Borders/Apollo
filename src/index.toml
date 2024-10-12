@@ -216,6 +216,11 @@ hash = "0214d44c9786bfd4329a33a0d896cbc024674d0904dbe08336b7d48e27312fe2"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
 metafile = true
