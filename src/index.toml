@@ -631,6 +631,11 @@ hash = "363daf799768b7508e9090ad21c521a766f4bd26b00f42f8a3bd9b39f8a451f0"
 metafile = true
 
 [[files]]
+file = "mods/sticky-enchanting-lapis.pw.toml"
+hash = "53f4ec5eb61aaad5c733acec914171c3bae5e40989e3a66b111eed7aa8102514"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "8065d5d410ac1732586237b3678aa55c8094d49773b758dfb2c38223600e7120"
 metafile = true
