@@ -34,7 +34,7 @@ hash = "1df1ab7de7dc07b35028513d19ae5283f0e66290e687e2ed11034249e211a87b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "632d612112a4d3fcc6069f5bf7933f2329a9c6b730090ae8a5ce67646fa02efb"
+hash = "e45508b222a2dc6083d381219960a1f19dd8cc1f14ceaf8f743264811f73b43d"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -371,6 +371,11 @@ hash = "88d504ca7157466de1a296c456a95e20412bf14bec48e606499fe3319a9ddbab"
 metafile = true
 
 [[files]]
+file = "mods/ice-prevents-crop-growth.pw.toml"
+hash = "66267a7a27c9d6424887a419b3a44ec94b92b7506e0eb423fa2b27e6ce05acba"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "1d3ab78f0490cd776be71cb65b072ba6d68fccc3dcaefe876ae28e5cb101fe30"
 metafile = true
@@ -388,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "78d73be72a5bbbc5d05ee639e4ba26b2bcef8dc9fb30a9626a8c4f9d2df1bec8"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
 metafile = true
 
 [[files]]
@@ -548,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "5f4f2fb3291ca69266fbd240b275d6f52f2e0d71a863be8aa5fc6bb926c9be41"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "1f27772525ba780b186f6387210faf6b96d0727993f2a5e59a5d0914a7c09d64"
 metafile = true
 
 [[files]]
@@ -733,11 +748,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "e02de790490a2b1a9da31aa8b0f55517c6186bec39d42d269cd899091f30f7c6"
-metafile = true
-
-[[files]]
-file = "resourcepacks/default-hd-128x.pw.toml"
-hash = "ba7f3a1aa8238b308984960e6a780599cfa4595e2b0d0fabd4773afcaddd0447"
 metafile = true
 
 [[files]]

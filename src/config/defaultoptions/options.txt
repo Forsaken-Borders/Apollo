@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","file/FreshAnimations_v1.9.2.zip"]
+resourcePacks:["vanilla","fabric","file/Nautilus3D-V2.1.zip","file/Unique Dark 1.21.1 (free).zip","file/Fancy Crops v1.0 f5-34.zip","file/cubic-sun-moon-v1-8a.zip","file/animated-items-1_21-1 - 1_4.zip","file/Twemoji Visibility 1.5.zip","file/axolotl_bucket_variants-v34.zip","file/EvenBetterEnchants_v2_r1.zip","file/Chat Reporting Helper.zip","file/Better-Leaves-8.1-1.20+.zip","file/FreshAnimations_v1.9.2.zip","file/cassette music discs 1.21 v1.2.zip","betterbeds:fancyconnectedbeds"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
