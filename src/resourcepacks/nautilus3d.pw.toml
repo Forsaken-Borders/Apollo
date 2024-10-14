@@ -1,0 +1,13 @@
+name = "Nautilus 3D"
+filename = "Nautilus3D-V2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1MyOrwfu/versions/bZ3uBpLn/Nautilus3D-V2.1.zip"
+hash-format = "sha1"
+hash = "535288221803cdb3c3e4b58e6ad562e8f0b8648a"
+
+[update]
+[update.modrinth]
+mod-id = "1MyOrwfu"
+version = "bZ3uBpLn"

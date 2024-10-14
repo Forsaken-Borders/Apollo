@@ -706,8 +706,68 @@ hash = "cfe99033f8c6220d174e7a075530a9d7102acad07af54181da49c008550410f0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/animated-items.pw.toml"
+hash = "4ad21f1109322b61201533d24d2557661d0f1d9800c093c51d7158e5bc034961"
+metafile = true
+
+[[files]]
+file = "resourcepacks/axolotl-bucket-variants.pw.toml"
+hash = "1e4d3517b4f2b75cbfc0dc189329b2c59c7a12fffc782852ca3b7515c6bb4f31"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "4e5a1d1713e927fe0d219653b2f04175fb13b7e52eaf16c081be6b1a022a5d8c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cassette-music-disc-countxd.pw.toml"
+hash = "b026397de5e9c9047aa366f8e2191a9e0d0de7050de7a30440d966140cfcf751"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+hash = "74a344fdd83371afc30090873d27d103a0bc992fbd5c730e382112f0cd0e4bf3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "e02de790490a2b1a9da31aa8b0f55517c6186bec39d42d269cd899091f30f7c6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-hd-128x.pw.toml"
+hash = "ba7f3a1aa8238b308984960e6a780599cfa4595e2b0d0fabd4773afcaddd0447"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "2e80711b588f694b39d144ad6e426b7ed370a569b24a08524aaed16ad247dbcc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-crops.pw.toml"
+hash = "8610fecce726a9ffcb10755d9c136a3e07211157484c5df92c066d5ab574dd31"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nautilus3d.pw.toml"
+hash = "f4018bfded4e45384e3a343492aaaee5e42f6a70699c9a2158cde125865ad116"
+metafile = true
+
+[[files]]
+file = "resourcepacks/twemoji-visibility.pw.toml"
+hash = "02efd96a98abe02cff261129fdf326ec747464788d98d9b012d82aee6b1f6759"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unique-dark.pw.toml"
+hash = "2f5f5903cf86ff1a080e3286ad74ec139b137688c66fc9845b03c700e9f04052"
 metafile = true
 
 [[files]]

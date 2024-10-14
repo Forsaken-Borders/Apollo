@@ -1,0 +1,13 @@
+name = "Cassette Music Disc"
+filename = "cassette music discs 1.21 v1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kS4FsCxd/versions/SbovCE66/cassette%20music%20discs%201.21%20v1.2.zip"
+hash-format = "sha1"
+hash = "dd437bbc3727ee9c7c77d835722cafb574e0e083"
+
+[update]
+[update.modrinth]
+mod-id = "kS4FsCxd"
+version = "SbovCE66"

@@ -1,0 +1,13 @@
+name = "Fancy Crops"
+filename = "Fancy Crops v1.0 f5-34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UGEVQ6t9/versions/aPjGJwCA/Fancy%20Crops%20v1.0%20f5-34.zip"
+hash-format = "sha1"
+hash = "2eabf00cd21ade16d132a656cdddf240f5214c56"
+
+[update]
+[update.modrinth]
+mod-id = "UGEVQ6t9"
+version = "aPjGJwCA"

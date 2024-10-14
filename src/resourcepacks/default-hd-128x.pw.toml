@@ -1,0 +1,13 @@
+name = "Default HD 128x"
+filename = "Default HD Alpha 1.7.5.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orfTV6nk/versions/B4JDeHmi/Default%20HD%20Alpha%201.7.5.zip"
+hash-format = "sha1"
+hash = "cf46b78fc85c1890b7b791d0589351fc00122504"
+
+[update]
+[update.modrinth]
+mod-id = "orfTV6nk"
+version = "B4JDeHmi"
