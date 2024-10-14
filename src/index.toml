@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "eb9611ea2482c61bfb5616eed361f52c55d5d49a1235bb0167ff872c0d4d076c"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "e32b05fdd1c9accfa40cf04cb4cfcec01f511e5f3ca27d3083a3755436a88c1b"
+hash = "bb709ad9f91ead47cccd5c31d679e5821449c2170e366b7b34553783e9615783"
 metafile = true
 
 [[files]]
