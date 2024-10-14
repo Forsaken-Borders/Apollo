@@ -406,6 +406,11 @@ hash = "ee9bfaa51dd4378ccda9e100dd3bf8a17c30ecb6d85aa126290bc60fe7c305ce"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "1190f29d62ac835b52a7766701d06120b8e6b1c8a40c76858195cf938cb1f858"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "40d28830dafd312cbff5e6c4cf549f85fdcd52588c4bafe60d9d53a81208131e"
 metafile = true
