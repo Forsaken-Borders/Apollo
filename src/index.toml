@@ -611,11 +611,6 @@ hash = "14fee1cdae5aa6ea35cc1ed977395f513d13a5d625e481ba7aec5982cad00c4d"
 metafile = true
 
 [[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "9551a3adda2e5c7d0070a8cae2dfae82cc5aa5f650fe317fe97c4148981692f1"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "cc28759943fcbb2281e39c3034e34da4fdc1ee6cfcf7b78d6ad212424d53d2c3"
 metafile = true
