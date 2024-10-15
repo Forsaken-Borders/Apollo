@@ -1,13 +1,13 @@
 name = "Bookshelf"
-filename = "bookshelf-fabric-1.21.1-21.1.10.jar"
+filename = "bookshelf-fabric-1.21.1-21.1.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/aZOFLjs1/bookshelf-fabric-1.21.1-21.1.10.jar"
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/zQYgIp6B/bookshelf-fabric-1.21.1-21.1.11.jar"
 hash-format = "sha512"
-hash = "4d1e24ca30d2ef7f3704a49fefa08f8d97bab70728d989cc626e3d712d6d897494027be5261a8f594f52e096b19a84f3af2c1e11232be23f948b1f6a4fba5028"
+hash = "67bbc127d8c7315b37c07e86d78070c1393ea8e1ce01ccb94626481057370e1fae1eb13a39c383e0537954510691a48886eba454617c75b8007223a0fbe445a4"
 
 [update]
 [update.modrinth]
 mod-id = "uy4Cnpcm"
-version = "aZOFLjs1"
+version = "zQYgIp6B"

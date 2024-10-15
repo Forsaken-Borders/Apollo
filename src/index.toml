@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "fd772f699db401c5b61e4c517a5e7d5362e5e453db39b2bc789da7773d671456"
+hash = "d3264e7a7e875e41bf0bb03ec0d74931319d170aa40a38f5d429a608753edda6"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/creeper-healing.pw.toml"
-hash = "ce2075b0d2611044b56eceaed0919672ec621400d40d34cf2e9d2840af7f66ec"
+hash = "325eca711fa04bd8b1a9b9dc779c1d6bbb313ce8a354a77402f19c72660d80fc"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "415701f7ddad9230491adf5d85dd37a2b94e82e91ba0178fce3de5ccd6ef2299"
+hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "4d53b56bbc1e4e36b1de29661f28c5b2f598ea7870317d3ab5f34529b5b44907"
+hash = "d1f313d765fac75a41ffc12413cb94686c58120cd803cd54f77e311529b3d367"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "78d73be72a5bbbc5d05ee639e4ba26b2bcef8dc9fb30a9626a8c4f9d2df1bec8"
+hash = "a53fe549096a3073dd7e0a671c8757b11d55d2c2a041e544802cdacde21c17dc"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/twemoji-visibility.pw.toml"
-hash = "02efd96a98abe02cff261129fdf326ec747464788d98d9b012d82aee6b1f6759"
+hash = "121540c1cb22ce44bfa971cede548508af7054cdc4976aa1784de06638d7d1b3"
 metafile = true
 
 [[files]]
