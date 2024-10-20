@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "d3264e7a7e875e41bf0bb03ec0d74931319d170aa40a38f5d429a608753edda6"
+hash = "0a7d180d68135a4ba35544bb15b7fef54a4f090466305ea35416d2da8eaf4828"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "482d76ed37105900217410824ffb46c5b09c7d1a5c98d1197dedb8e028305e70"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "23ff99c403531967dea9de0d8022c2a74abc865661615470b837a7344aef1304"
+hash = "1ec277fa1753d715046c1b3c33c4b0111ba922da42db858fa561550c780622db"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "a4c5c4dd2de1d3c6a91fa16e051fa9b51e2f92c31048e65cc4c181cb1dd5e98b"
+hash = "559829422c0b39e55c7e7224940337de1630284027d2aca0a0e214fc9ca42b92"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "aaad4f1b2f56017174e616998d03895c79b457868dfcc7d308bb1137ca24f1c0"
+hash = "6951c269860b7f4f5a163c2f1f1a48f0625c7756f4d566a91e30b53abc987381"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "d1f313d765fac75a41ffc12413cb94686c58120cd803cd54f77e311529b3d367"
+hash = "85962c8d8f892c75390967f3ea339b4410901dc12165a0ca59bf8feb4884975a"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "1d3ab78f0490cd776be71cb65b072ba6d68fccc3dcaefe876ae28e5cb101fe30"
+hash = "501fd33b263cd55ffb8d72875ece5a5b107148cf98509961ad09c7fbfb98c4d3"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "05abca9865677dfdf99cd0fc9c8cba993cf67bfa2bd244a0fea28e6daed69a76"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "a8678bed0852d8e6ced390140ee33c27a3708d3df79e1a265cfc6d9de6720d9a"
+hash = "ac88cecce7fbae1ef9df6bcc432a80e39dcb8105d64d2238b548a7990f572b7f"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "f865d16ce7d7e9df3afceca357d14d8c6a5065857487361d055ffac2c06f394a"
+hash = "f2fcff8be2416ae6afc2f874c3f0baeaee2cb7debd3c402a03db0fb8ed7fe5eb"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "cfe99033f8c6220d174e7a075530a9d7102acad07af54181da49c008550410f0"
+hash = "4be2560016713edf2fa498d2d8b635854e196d75a05452e2ca0d09f1bc1105a7"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "74a344fdd83371afc30090873d27d103a0bc992fbd5c730e382112f0cd0e4bf3"
+hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "2f5f5903cf86ff1a080e3286ad74ec139b137688c66fc9845b03c700e9f04052"
+hash = "c010a201e0de3ffaa0239983fc2966170ac3c8d85b2b7c9c6cf9be9843af84b6"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "Unique Dark 1.21.1 (free).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/zuxQVh0x/Unique%20Dark%201.21.1%20%28free%29.zip"
-hash-format = "sha1"
-hash = "d962896bdffbd143311da0c2e9d9af651252b528"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/ncO5qcXE/Unique%20Dark%201.21.1%20%28free%29.zip"
+hash-format = "sha512"
+hash = "8cbdd89f9e7e22bf33d2700456ecf043ace66a5ddff2ff18021ba99c6b1ab8a2b2573a39075fd6416dadd49c1f137d2beba3fcce386feb3f24a2009ad5288188"
 
 [update]
 [update.modrinth]
 mod-id = "BaY1UdGV"
-version = "zuxQVh0x"
+version = "ncO5qcXE"
