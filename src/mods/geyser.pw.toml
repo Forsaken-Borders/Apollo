@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/mg07dEiB/geyser-fabric-Geyser-Fabric-2.4.3-b692.jar"
-hash-format = "sha512"
-hash = "1c3296163d67055184384dc28c3f99ee26f0701f906eee82e492c3003afe52161bbc4e0b0b1ce44a1f13d56900ff967cd3bfaa99f6904546d8eff590477ddac7"
+hash-format = "sha1"
+hash = "30bb7583bad080bf916865bd2b7e98da91e1b3cd"
 
 [update]
 [update.modrinth]
