@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
-hash = "2b7615fcb74ea6e56330fce8c262983ee2c48dac501ca58e3c1b1e5d726351cc"
+hash = "6232203ebeea62e7910b4108793659bf74749d1f0590d87bd25ac8dc10c960fd"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c4b947529291fa0d5dbeefe2c9d292750318744b9c4609af50c7a687d2389e19"
+hash = "8f34e07fd020c5393d5c1cf686f67013aa64768725ed4ac5245de89a8c1e2173"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "35890f8b036841527401f38b2c9e1f28236887cd810dd408c39b9191c9fa753b"
+hash = "b19b71018679afb30d9146abba4fc2ae6531b9f3622b6ee1a0b1c755c86c08d5"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "51ab75f65e28a29c2a1b9f325d248278da337e97c968941d33211e028614343c"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "bb709ad9f91ead47cccd5c31d679e5821449c2170e366b7b34553783e9615783"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "4be2560016713edf2fa498d2d8b635854e196d75a05452e2ca0d09f1bc1105a7"
+hash = "481ee07891029ab927064d9b9aef897b6c4bcde3e0882d8407adf2794a8745ef"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/nautilus3d.pw.toml"
-hash = "f4018bfded4e45384e3a343492aaaee5e42f6a70699c9a2158cde125865ad116"
+hash = "2242ad39e220e34c7c16590b36b0ced22164443a1c4a3e8ea86d98f155911562"
 metafile = true
 
 [[files]]

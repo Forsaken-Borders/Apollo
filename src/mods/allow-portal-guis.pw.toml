@@ -1,13 +1,13 @@
 name = "Allow Portal GUIs"
-filename = "allow-portal-guis-1.1.2.jar"
+filename = "allow-portal-guis-1.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UVHxud51/versions/QOVMddap/allow-portal-guis-1.1.2.jar"
-hash-format = "sha1"
-hash = "5530a216fb32bf3350bb71be5268bd3e1a3a8f76"
+url = "https://cdn.modrinth.com/data/UVHxud51/versions/Gm3u8Bwi/allow-portal-guis-1.1.3.jar"
+hash-format = "sha512"
+hash = "0a68fd2180bd56a4787e31b624c9e98b0ef3cbc05a3e6e4849a7e1213ce018fc6fffb63d83727a43870daf31a6216409ba742410602b545598122eb4853e4b61"
 
 [update]
 [update.modrinth]
 mod-id = "UVHxud51"
-version = "QOVMddap"
+version = "Gm3u8Bwi"
