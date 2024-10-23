@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/betteraddserver.pw.toml"
-hash = "b9cd83082902cbb4bae41486b2ebf4f3ce0af6f3cd6a0a93dbdfb61e8e6e443e"
+hash = "3ea66dbd8e333b67a5bc50af4462622d8d5e7e65f89b2563430be515063eb5a5"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9a3a1a5da0d8b062eb5fc992562db7eca595ab1f7f57c8677ac09635832e2dec"
+hash = "3076e2fd2fb54d298a0d1e46d396eb3cf7c3d830e1c8063f00995250520f7a66"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "85962c8d8f892c75390967f3ea339b4410901dc12165a0ca59bf8feb4884975a"
+hash = "e40a9d5923205e8a70b3cc1d3948545e60a3203f3ed9134916577b84902df940"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "cc3712af8746ced7649eec48f962b57367a43ff7f47767a69e9228ef304d5948"
+hash = "703408eb46362de53e5af0ecd2efda6fa93f8a4a41873f2bfdb94cb26e560acb"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "72acc0c012c32239b33b9dd388b0144f8b59328b666cd81e1977bf5a23bf1f33"
+hash = "9eba95c43a14d12f452262afdb4bc9654d2a6facf10c61597c544f6c9db98961"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "f2fcff8be2416ae6afc2f874c3f0baeaee2cb7debd3c402a03db0fb8ed7fe5eb"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "1f27772525ba780b186f6387210faf6b96d0727993f2a5e59a5d0914a7c09d64"
+hash = "79f797254f49f54751b8c3cf8b3c5d463d249713055d167c2744b162c00c4629"
 metafile = true
 
 [[files]]

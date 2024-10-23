@@ -1,13 +1,13 @@
 name = "Better \"Add Server\""
-filename = "betteraddserver-1.2.4-1.20.6.jar"
+filename = "BetterAddServer-1.21.1-fabric-1.2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/s4DtR8IM/versions/M29B0u4C/betteraddserver-1.2.4-1.20.6.jar"
-hash-format = "sha1"
-hash = "7d4ec357437ca3a671c26c309017729216e57776"
+url = "https://cdn.modrinth.com/data/s4DtR8IM/versions/eG9e1gnS/BetterAddServer-1.21.1-fabric-1.2.5.jar"
+hash-format = "sha512"
+hash = "8f616e4021eacde9d611512a5009a81ce8ffaf19e0e2abbfd30c2b72237518d9cd0931a27413db6823f0db91bb602829eb925904805412dd0d210192b39a7e33"
 
 [update]
 [update.modrinth]
 mod-id = "s4DtR8IM"
-version = "M29B0u4C"
+version = "eG9e1gnS"
