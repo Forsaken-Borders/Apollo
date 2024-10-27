@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3076e2fd2fb54d298a0d1e46d396eb3cf7c3d830e1c8063f00995250520f7a66"
+hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dd5fd2a9a1237239586b6d286b55eaf43c84e080f2491a9be64efa3ea4bd7902"
+hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "703408eb46362de53e5af0ecd2efda6fa93f8a4a41873f2bfdb94cb26e560acb"
+hash = "d4f95a2ba4a022ec1cba38aa54cec7f13b3c6b1950dba7d4b3802e219efaaebe"
 metafile = true
 
 [[files]]
@@ -397,12 +397,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "9eba95c43a14d12f452262afdb4bc9654d2a6facf10c61597c544f6c9db98961"
+hash = "67ad5c2acf84ac2657b079a341b2771012d5050cbd900f423ded03404efc5de2"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5e94004a98d15d2fbb9348018f2777927809131c1ab56daf4b38cfa398f5dadc"
+hash = "2f569c4c8d56e2009ec04b161e1bf89eb9181af8b998fe206b2655e25d36be43"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "ac88cecce7fbae1ef9df6bcc432a80e39dcb8105d64d2238b548a7990f572b7f"
+hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
 metafile = true
 
 [[files]]
@@ -557,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "5f4f2fb3291ca69266fbd240b275d6f52f2e0d71a863be8aa5fc6bb926c9be41"
+hash = "dd4b5f371bf4737672ed5bde3a1e45690541ab23cc32236ca2019aba603e51d2"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "79f797254f49f54751b8c3cf8b3c5d463d249713055d167c2744b162c00c4629"
+hash = "49bde7aab3bde7c3d4ab3a5783bbec03eb3da03911ec3d7143d2fb99d9127803"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/twemoji-visibility.pw.toml"
-hash = "121540c1cb22ce44bfa971cede548508af7054cdc4976aa1784de06638d7d1b3"
+hash = "104506aaaa7936295c5b6b2f509905445830fcaf5ff38708c19786e9f69b3581"
 metafile = true
 
 [[files]]

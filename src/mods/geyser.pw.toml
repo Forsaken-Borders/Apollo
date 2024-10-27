@@ -1,13 +1,13 @@
 name = "Geyser"
-filename = "geyser-fabric-Geyser-Fabric-2.4.4-b694.jar"
+filename = "geyser-fabric-Geyser-Fabric-2.4.4-b696.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/9l1uUfeS/geyser-fabric-Geyser-Fabric-2.4.4-b694.jar"
+url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/Ys9lGAM9/geyser-fabric-Geyser-Fabric-2.4.4-b696.jar"
 hash-format = "sha512"
-hash = "9f728a6240a6b7494efa270ce133e570ea94f124f5cb307ff99247a39f37498db4579f693ee8e99cbb6ba2dc52eb021f0e7807b26ef638f65776a6422bfbc644"
+hash = "4f9cea4a33f0d996a53feca864e02bae177a358b99cf4bd1c54824a6cef6dbab6b12e814556122eecd81ade0d7bf8c710defc1a51d42fc4a9148aa5f4646f3a2"
 
 [update]
 [update.modrinth]
 mod-id = "wKkoqHrH"
-version = "9l1uUfeS"
+version = "Ys9lGAM9"
