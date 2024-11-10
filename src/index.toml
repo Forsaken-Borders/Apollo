@@ -42,7 +42,7 @@ hash = "b2750704fae6874bc4c354dbbe8f0c82c8ec28fd8125937d09d545528fd236c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "20fd19d17cd5436f4184105db0eb8f325ae097183f3adace1ec4981e204bbe50"
+hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "6ec5134ef5b2d7c39f3cf90440160db115568fdc3cc9a9142b2f0104a09f49ea"
+hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "1ec277fa1753d715046c1b3c33c4b0111ba922da42db858fa561550c780622db"
+hash = "01c8ed78248fbac6a67e1d5be15b54c781d8ef8e361e775fe8bba0213cac6265"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "837533e26d797461fe5e2abbc3c35c4a162f17f0764aef23e1690ac2130c2266"
+hash = "115924b0bd0ffc3836c3f563db254f0a7ac8b042ff6363835d19c65cb7a77ac3"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "1ec4ab4ac2e5c880d7ba6de30525e9c5848c9a3fe0ae6cea5f6937775d9325cc"
+hash = "be533c25b6548cff49bd838b65cea9791abe3e92da571b7d0cec858143ee853e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a9c4f8a7acd7cf535101744919136cc2f6a024c925227726242fbe981d4750fd"
+hash = "d76381c45ede03fe1c011d878b1debb38782bdeb22149916efd725ef4fee2833"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "23de9b25d5ba1ff89859ca0177b06ab68bd26abcfd690add05b49b6f06f985e6"
+hash = "5c0db9264f886150f26e70ddefdbcf32a398ced2320a67ce4004b96dc96e6549"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "6a06688ca0c0fc3038b8b2ed438ffd4e6cc5e0edeb26d0b40fbca1e6b44b8ee8"
+hash = "83b2822c8b27eb2b08eba0e71fae33d32b61c1ad7ed6623c2524926cf2fd9238"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6c10583f8b19da6e4ee53458062ecf29adf5cc11bd0ffdad8675001a8bdb3d5d"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "4d2f963afd70835e8b5edd7e18a6e236ee4a1dbbabead3bc0e796462056448c0"
+hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "006ae89bec9b6d2eb2fdccdedb5e2bf033227e51b0eadd1abb7b68dd4ac91d45"
+hash = "93e4a52cd2dc9201145a6277c975beb223dcb5eea76b07b871910cd65aece7a7"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "cbce4c17896d063c499661b71b60c34c4400053aee7f3e66cdfbdcd97483bfff"
+hash = "53c4345e2a6575c53e552c5aa0167b2468ed7120f52d4ee5fae18e1cbd0d7f4b"
 metafile = true
 
 [[files]]
