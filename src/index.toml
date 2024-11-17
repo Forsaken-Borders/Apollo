@@ -42,7 +42,7 @@ hash = "b2750704fae6874bc4c354dbbe8f0c82c8ec28fd8125937d09d545528fd236c5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "322fd11cf2b368465e64f828f8442cbe24abd7ea069a3490ec8a0d58e46a4e5c"
+hash = "6cc53611899ef65d2c4385d1fe5abcf92b5afac1448ec468383939685f6db42a"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8f34e07fd020c5393d5c1cf686f67013aa64768725ed4ac5245de89a8c1e2173"
+hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "69360e5ed734eee0e5623e0ed320a89501088b0fa83a1d7f1879edd6703fa17c"
+hash = "9b8d70fd10ae28731c232bc1328bf912d897b897b19ac72178ae31fdfe17c31b"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "be533c25b6548cff49bd838b65cea9791abe3e92da571b7d0cec858143ee853e"
+hash = "70398a1b7a6a1529eb90e5d4d860a2cedac66279d99362fa64adc2e7e32169c1"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "680f4d24e4ec78ed0ebaa0d71b6b721a7c2f86bc68de74c9f7573a670f93dcaa"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/offlineplayers.pw.toml"
-hash = "320f51583c885b4163a7a185338111ba05b8138daaf9169a17062b8d08724885"
+hash = "196776e79c1564c7390f35a1ecf9530104225797927c54185a24acc6fe6f6a9c"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9bdcdf6050b27b23f7f575d958c4efb4fb54b92b833934807ac86ce1463f3504"
+hash = "b4dd4bdea5b9f69e842f0096feb79d3bd2635de2ea2b68a0ff2e158acaf9d4a4"
 metafile = true
 
 [[files]]
