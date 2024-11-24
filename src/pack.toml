@@ -1,12 +1,12 @@
 name = "Apollo"
 author = "Lunar Starstrum <lunar@forsaken-borders.net>"
-version = "2.15.0"
+version = "2.16.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d0a67c3418e94852c1301d64758260a02765e04a2885fdee90cc04a661702226"
+hash = "73ac36897893ed1755496d3aedfc456e8d05741226b0a59fdded4b5b45f6540d"
 
 [versions]
 fabric = "0.16.5"
