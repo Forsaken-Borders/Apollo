@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "effae993d050253e64f8244d96c8e62643afdebec6be4ae67b1088898d0cf7b1"
+hash = "76c913b157f928a11b7c6f2d010b341fd50dd5032c39bf512eab39b5abfc3170"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "258d19f7a30f0fc833e49731146503e1e1cfdaec80ea5fa1ce9eb794b42d3152"
+hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "01c8ed78248fbac6a67e1d5be15b54c781d8ef8e361e775fe8bba0213cac6265"
+hash = "7686114b1a56aa46ef0a87dbd68b6b22a98e7315f332732f284602e04bd40056"
 metafile = true
 
 [[files]]
@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "70398a1b7a6a1529eb90e5d4d860a2cedac66279d99362fa64adc2e7e32169c1"
+hash = "857cba0dcf29e328f6c0e99a63dc371ea03fb27acf43c963be91a82e9963453d"
 metafile = true
 
 [[files]]
@@ -422,12 +422,12 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "8bc55f2b0ef706b04a4d4b1bbb4e3253c2cf2e8c3b2c5264b21775af63c74e2a"
+hash = "66e9f7a43715b1d6c83541f6de427e3fb2fa12a729e86a360bc379d0466066f9"
 metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "84f6fdfe8576c72a5704178b45e3142ae81ed263c474c46a93f98f7d42debb68"
+hash = "c6d58a7af6566256a14b48cd4ccda92e3c830efde32ca75e526a1902342d2ef5"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "cbd11dd2ce7d950794a78cc2a2986e89226f418edf578a961b796dbe9be57a27"
+hash = "ac18f08584260cf3a3dc69068513b0ae6b0a3b8b7be9a4c0c4e02b22d77e9635"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "cc28759943fcbb2281e39c3034e34da4fdc1ee6cfcf7b78d6ad212424d53d2c3"
+hash = "6e28b951209aef5f0d05dd31964a8f935982704c2144d873e0377f01e95557fb"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "ac13f7c9bc5f99ce85c6104f0aff4d36117c98bd7e6b8c124c7ecb21b94604de"
+hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
 metafile = true
 
 [[files]]
