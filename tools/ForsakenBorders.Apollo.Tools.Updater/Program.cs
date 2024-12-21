@@ -131,6 +131,14 @@ namespace ForsakenBorders.Apollo.Tools.Updater
                 return exitCode;
             }
 
+            // Update the loader
+            (output, exitCode) = await ExecuteProgramAsync(PackwizBinary, $"migrate loader latest", logger);
+            if (exitCode != 0)
+            {
+                logger.Error("Failed to update loader through packwiz: {Output}", output);
+                return exitCode;
+            }
+
             // Parse the new state of the modpack
             Version modpackVersion = await GrabModpackVersionAsync(logger);
             IReadOnlyList<PackwizEntry> newEntries = await GrabPackwizEntriesAsync(logger);
