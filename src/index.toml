@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "76c913b157f928a11b7c6f2d010b341fd50dd5032c39bf512eab39b5abfc3170"
+hash = "c36c3ef1bf763c568e5caba8f4db7f1490db9c85ed561e226cab8b2327cf0284"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "4ba385fc30c59a9bcc038517d3a8ef81f022b2cdf847edb5ef08f9e885f960e9"
+hash = "a0d655ef6720b5045b85b8ff251bf62fa977cfeb28ca98357995586a79534636"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "bea9d9c7604dc01b5fb3d2ba111b1e7cd47c8fba50452e847668a4fe3e22b8c8"
+hash = "595d4e5dbee4c4fad7a84c809491ddfa29a9607a8982d04dd19f99a3a70f1cf8"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
+hash = "9effcb75f0affe654bc06bf334447fe37b5f02fd9aa35f540e2dcc43a07abd99"
 metafile = true
 
 [[files]]
@@ -607,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b4dd4bdea5b9f69e842f0096feb79d3bd2635de2ea2b68a0ff2e158acaf9d4a4"
+hash = "31824b27e7cfef5ff4091fdb37cce9e42be93dbbef6610874ed7b7158d44fd08"
 metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "6e28b951209aef5f0d05dd31964a8f935982704c2144d873e0377f01e95557fb"
+hash = "effb67288c0b253f8c0aec25505547059d70e066ca640cbc52e5fdfbe1686679"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "24c7818de226f7076c97d742a4c9b5e9bbf65a4e5bf3ff09d3f186e8e7103efd"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "3105655e451d9a2d5cdd4f791cc6a8f20a4063da9bf5713eeaeb341ea702f8cf"
+hash = "cf2c07cb7d1637541d163948891a9b3df2aabf6d562e963ee33a99fbb9871e4d"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "623fe1c90a66b60251ab820d1c9749ef046e3690179255759d7b17028f0b1c3c"
+hash = "4c5cda0def330b2d6d86b916fae55793976c512d8e2a04ca516b02e9fadb3d07"
 metafile = true
 
 [[files]]
