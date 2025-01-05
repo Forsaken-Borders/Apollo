@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ccde3290b7c187f1604334482954bbb6452509690caaeccc8dda0b08d7320a09"
+hash = "d512e7b29840fb39f4a98004c47f0f45b08696f221abc1ff3301c7ea1725f676"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "a0d655ef6720b5045b85b8ff251bf62fa977cfeb28ca98357995586a79534636"
+hash = "eb12a50703296fadea3b3c6bd531122db6b9046e9a876f4dd38efcdccd045526"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "8bab952aeb4d2bd093b6ed880da47ae2b677cd7312cb2a45409cad5554408149"
+hash = "96f5397e6028229b4e130fe090da3fc3b132e385de395f4c39b03b40af209840"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "8e1a7b8d1647b0071b03f54a215613d550eada0de4845de4d5233bdc5e636484"
+hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "e63a78790a02341fcd86dbe4622401a832fda8a8e7c43e4187492ab9f0df2644"
+hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
 metafile = true
 
 [[files]]
