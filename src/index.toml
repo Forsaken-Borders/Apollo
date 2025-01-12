@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b2e77534a9679a237221d874b95bfc5d264cfa4d3b25dbf321ad939baedc0740"
+hash = "d9e211ad471614e8f1d7b9e2869931d364b6756942b01bc74def9550d782cf43"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "eb12a50703296fadea3b3c6bd531122db6b9046e9a876f4dd38efcdccd045526"
+hash = "dfc63349d519cdf5ad169fd024a4ce4b6e355227ceb5634c7328b69bc59a85f3"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "4ca286aab0671af7b70991aaa2a368ed6cb56f3ac1dcea78962f53e3766b506f"
+hash = "e6b82bbc11d7ac465b320d630a99f2f7c0ad8fea744927285fb93ec5cdca6854"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "a357bc5ceae39d36cb3f4b56b247d12b382582f6e4fc896f293fca1f0077a21a"
+hash = "3358b73c2b4463469a88078c7f7e6646d459576d79bd1c80568c566714f2c3dd"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "66e9f7a43715b1d6c83541f6de427e3fb2fa12a729e86a360bc379d0466066f9"
+hash = "b624025b3adec418e6d50cc46b00c9c73ce1da15ae5950d9d0b9b5ec5a2d4ff8"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6384738e3dc61bf6222883b9582d7060e051387748b814045823a2e1426bef43"
+hash = "de948cb3c2d4e8945c446c96827165787967008050de37e152f3826addfee845"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
-hash = "8610fecce726a9ffcb10755d9c136a3e07211157484c5df92c066d5ab574dd31"
+hash = "f954ad393353fdce97158688024daafc9c718083932a49faf982501412816293"
 metafile = true
 
 [[files]]
