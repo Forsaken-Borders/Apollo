@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "dfc63349d519cdf5ad169fd024a4ce4b6e355227ceb5634c7328b69bc59a85f3"
+hash = "4478024bb76a4921343ea34a385bd0db2de3990c18705d7cbca99b5a5fcfdd7c"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "27fa211d3e56415d0fb0847a2d3f6f0be1bfcb918e565e574ccd548f3f755dd2"
+hash = "eb4c5f7faa6349da2b520094d2a2635e03e8ff305076e7ac76588d1e2183849b"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "3358b73c2b4463469a88078c7f7e6646d459576d79bd1c80568c566714f2c3dd"
+hash = "70c86305db3870ebb29d735315dc0ced9b138fb713362d65030de26211d7de35"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "857cba0dcf29e328f6c0e99a63dc371ea03fb27acf43c963be91a82e9963453d"
+hash = "5fd5036c47d6cddd886c88040d62c840ced869c8a86c349c52c569ce5c00633b"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
+hash = "93c5ff35cc7997f0976ae5a4f7a1a4e333dfd34356a856f9b9d2886b5283fb60"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "de948cb3c2d4e8945c446c96827165787967008050de37e152f3826addfee845"
+hash = "9cd1f164764a1ad176682b8d57815c7c0b8dc5f837c542d42bc1192aec33ff83"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "4c5cda0def330b2d6d86b916fae55793976c512d8e2a04ca516b02e9fadb3d07"
+hash = "6d73ac0cc1646c398c553bec55fe7dbe2be368e971b51493f48130ef10f7b44d"
 metafile = true
 
 [[files]]
