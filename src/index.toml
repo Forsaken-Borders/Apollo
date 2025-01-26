@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "d512e7b29840fb39f4a98004c47f0f45b08696f221abc1ff3301c7ea1725f676"
+hash = "7af283ca94e8d0d24a7c5b5fd43c0b5c4bc4300c00754ae40dfb0b5d44ea6a17"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "4478024bb76a4921343ea34a385bd0db2de3990c18705d7cbca99b5a5fcfdd7c"
+hash = "adbc360641b1199ad9d0bd069d1201686c953cf1f6826e1b54e64cf9a5e75d17"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "bdd7d1d38603316ffb37e1dc4cb2cb7a68e3646fa6e66efcdc3b76432047e18d"
+hash = "b30211f37fdf9e80a2d1e060c630223cca272f5e03d2d312b5f60b84cd888532"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
+hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/gputape.pw.toml"
-hash = "96f5397e6028229b4e130fe090da3fc3b132e385de395f4c39b03b40af209840"
+hash = "3dbbe88bcb85142955f776a9542daec9eb5c5c7c349e56306cc7b8dbe4a84c4c"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "93c5ff35cc7997f0976ae5a4f7a1a4e333dfd34356a856f9b9d2886b5283fb60"
+hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
+hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "07d6a9e4a6ac35db08c83d9caf1f9882f7f8be4a0ff6c94732559dd200a40fa3"
+hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
+hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
 metafile = true
 
 [[files]]
@@ -772,10 +772,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "6d73ac0cc1646c398c553bec55fe7dbe2be368e971b51493f48130ef10f7b44d"
+hash = "6d5664fb5e69acc81c14e3710a9051a0caceb7243fca1dda1b4dcb9ce61f4ec4"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "4f2a665064101a215bc230f9b4a52e62b39f776a452cca33637b142c84731217"
+hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
 metafile = true
