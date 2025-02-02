@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "adbc360641b1199ad9d0bd069d1201686c953cf1f6826e1b54e64cf9a5e75d17"
+hash = "23b3ee181c61ce91cb0187a6a680572c0638eb623b78b793aa67d9a739872d40"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "e74b111babc68645bb3246fd17f835e168f982d65cfda7b306565fc29ce121c9"
+hash = "6a246ebc26087cf6b91289857e8f26477bd5e2dcc7d037531f54129eed71de2e"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "f7f1fc9893f87b24d1ea2989646cf17ec30370a9beda51dcc8d8128010f5ab71"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "2cdf4109fddc8d8064512511ce2a2dffefa424399d08949ffca997884eb7613f"
+hash = "e26dfa7dce4e56acb5d12d9ed2fdebabf7ce9c27520c67747fcf56355f800a4f"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
+hash = "1bf438bbb1ae206a0133eaa45a1ee4e733554759e73b0dd3f8e46a23d5fa12bf"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "8065d5d410ac1732586237b3678aa55c8094d49773b758dfb2c38223600e7120"
+hash = "81b8a1d186cc1685641bef736eadd143fa48909bd50cd7c975ec0d971a25e3ba"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "6d5664fb5e69acc81c14e3710a9051a0caceb7243fca1dda1b4dcb9ce61f4ec4"
+hash = "4e53e58ecaa3cfd458d168cff6c10cac2820a51422c321397d8dd65b69ddac1a"
 metafile = true
 
 [[files]]
