@@ -3,11 +3,11 @@ filename = "Unique Dark 1.20.2-1.21.x (free).zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/5mq180Vz/Unique%20Dark%201.20.2-1.21.x%20%28free%29.zip"
+url = "https://cdn.modrinth.com/data/BaY1UdGV/versions/F4NuxGkl/Unique%20Dark%201.20.2-1.21.x%20%28free%29.zip"
 hash-format = "sha512"
-hash = "c00319e5826d818bcf35bd9a7b5f15e6972973d27706eb16be33530e472428ba7f96c89641a898277da259462d0946fd5ffb131d4aae307bedd30246d61af333"
+hash = "c5992668726c16b6ef6141ad5dd16fd669e2b3b8ba074e247b840d0d135a0ddc69691402c80fb5fb710fc4b0736410b056665a2c5173d2bbde699f2fbc1e57f0"
 
 [update]
 [update.modrinth]
 mod-id = "BaY1UdGV"
-version = "5mq180Vz"
+version = "F4NuxGkl"

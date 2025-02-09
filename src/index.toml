@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d9e211ad471614e8f1d7b9e2869931d364b6756942b01bc74def9550d782cf43"
+hash = "442cbacfd1aa433a097424752267ed1de73b72a3ef054c2a469b48c89ac02d24"
 metafile = true
 
 [[files]]
@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "23b3ee181c61ce91cb0187a6a680572c0638eb623b78b793aa67d9a739872d40"
+hash = "e726d8635950706f0a0810f24a96d10ac730b5521a9c700a7b9870743131a33b"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b30211f37fdf9e80a2d1e060c630223cca272f5e03d2d312b5f60b84cd888532"
+hash = "24828835695c3e91f506dab3bdd47e54cb31412187ab0670bbb09cfeb710994c"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "17d7afb45ba7db7596ff9dcff2c3daaa5677c0ae8209b783bac956cee12b4d63"
+hash = "07d0b0c99622a7565dbc38e6937e3d93d5f0dde72d43637b667baf01fef5c1c5"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7686114b1a56aa46ef0a87dbd68b6b22a98e7315f332732f284602e04bd40056"
+hash = "2a6591e61b760952cad4973364d1f475417cae762a609fb660169ea000ccaf69"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "5fd5036c47d6cddd886c88040d62c840ced869c8a86c349c52c569ce5c00633b"
+hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "b624025b3adec418e6d50cc46b00c9c73ce1da15ae5950d9d0b9b5ec5a2d4ff8"
+hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "9effcb75f0affe654bc06bf334447fe37b5f02fd9aa35f540e2dcc43a07abd99"
+hash = "79a034d9dc8a2cb62a9fcd64c2871e081291a264822da07675a3ee749b04b6eb"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "c3f567f9982b0a9386a87aba4e80556421f3af4d2f06ec240374fa6af0e28d77"
+hash = "b9a257cc1a5488a7f95cea6e78048986df5984daf8419171d2374207c71a8c02"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "4e53e58ecaa3cfd458d168cff6c10cac2820a51422c321397d8dd65b69ddac1a"
+hash = "4de475f96daa72a85f5c12cf533cd4b7a52a0e8e4d991f7e66952fcd0e1724fe"
 metafile = true
 
 [[files]]
