@@ -271,6 +271,11 @@ hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "8f796f3d24fcf3c041e7fd4631e2c536018e027778bbf2fe36ddacdca5220cf4"
 metafile = true
