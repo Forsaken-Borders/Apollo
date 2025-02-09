@@ -46,6 +46,11 @@ hash = "81f72955e64568bc01f7a22015c32706badfb52ec7f094b392b0a8722aef837e"
 metafile = true
 
 [[files]]
+file = "mods/a-good-place.pw.toml"
+hash = "0d5b9bdb1664bce522d23a6cd9a854a237b0e4d84d62b7ab78c38b906ed2a4a1"
+metafile = true
+
+[[files]]
 file = "mods/allow-portal-guis.pw.toml"
 hash = "6232203ebeea62e7910b4108793659bf74749d1f0590d87bd25ac8dc10c960fd"
 metafile = true
@@ -266,11 +271,6 @@ hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
-metafile = true
-
-[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "8f796f3d24fcf3c041e7fd4631e2c536018e027778bbf2fe36ddacdca5220cf4"
 metafile = true
@@ -336,6 +336,11 @@ hash = "803f112161f2a1e7cb9abd7bda38e830360f0a01fe2395be261bee350c3627a6"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "fa1dfc9701b20f4c1b248ac90aed529994d7d6e88b4a1d1bbd23fe692d3576f1"
+metafile = true
+
+[[files]]
 file = "mods/geyser.pw.toml"
 hash = "26f1136d851da18ad1c5dea577706c3655fa90b69a99c51a141728e7fc1a7691"
 metafile = true
@@ -376,11 +381,6 @@ hash = "66267a7a27c9d6424887a419b3a44ec94b92b7506e0eb423fa2b27e6ce05acba"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "f97cc8ad639b378d68bcf0169740735a9ca14fff6f36baac3745427097078d46"
-metafile = true
-
-[[files]]
 file = "mods/invview.pw.toml"
 hash = "cb49b2a2f6f93704ec13fca1652901cbcb8dff04a5ccbd2d3d4a9f75b4abfd7b"
 metafile = true
@@ -418,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "1190f29d62ac835b52a7766701d06120b8e6b1c8a40c76858195cf938cb1f858"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "d9c37a782ab3fccc43ed846018033e4cb3f487ec37cb5d67c012da4f61ca771f"
 metafile = true
 
 [[files]]
@@ -656,8 +651,18 @@ hash = "7a6a28c769f83459b44ec908f01a479c4c22d932b06c9e7cf38aa664270ac861"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "2374bd284f2e3f26580275adf7fde6562b946432b567726bf0c8b7638e19d57d"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "cf2c07cb7d1637541d163948891a9b3df2aabf6d562e963ee33a99fbb9871e4d"
+metafile = true
+
+[[files]]
+file = "mods/terrastorage.pw.toml"
+hash = "deb6db0b65039bde6bae45347cf3b9fcb206a55ce6516167a85a0c9128c3a76d"
 metafile = true
 
 [[files]]
@@ -678,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "738220ab4bc5377128f107b836feaa4fadb276e1f33f702f510dbd727ede9ac2"
+metafile = true
+
+[[files]]
+file = "mods/visible-traders.pw.toml"
+hash = "8d96d3937584ae78ca713da0b20284f666c66c5074259f4c6fe3ade6e0526e8d"
 metafile = true
 
 [[files]]

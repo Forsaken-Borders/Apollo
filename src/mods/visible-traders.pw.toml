@@ -1,0 +1,13 @@
+name = "Visible Traders"
+filename = "VisibleTraders-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhllI99f/versions/2PatDB1x/VisibleTraders-0.0.7.jar"
+hash-format = "sha1"
+hash = "08245ebb3473bc28cbf695bf0b008075bbefe364"
+
+[update]
+[update.modrinth]
+mod-id = "AhllI99f"
+version = "2PatDB1x"
