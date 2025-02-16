@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "442cbacfd1aa433a097424752267ed1de73b72a3ef054c2a469b48c89ac02d24"
+hash = "79659a9d52c19ad0c56771356fe9ca457e20f7636894695a2b7a9609ab21720f"
 metafile = true
 
 [[files]]
@@ -167,12 +167,12 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
+hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
 metafile = true
 
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
-hash = "ed5ec4c39e3955cd9916e44b3b9c65160941b6aaac81b91803fef4d08ecdf709"
+hash = "b171daa46eaf38e18b576293dec212a6e03cf732fdcc86f4835a3b4822b4ef7f"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/crying-ghasts.pw.toml"
-hash = "bff75229d8326e385c4bb0d590411e2dc6bac71a6ed9e479b21641c6b35b97d2"
+hash = "419ae2a298d5d721cc08fc1e9f01e6503f240128a8343853057832e38bdcba1f"
 metafile = true
 
 [[files]]
 file = "mods/death-backup.pw.toml"
-hash = "85282b31f3a98c66be09e9af2730202ad786b30e6049ccb5c5d49c8c538f2e3d"
+hash = "8136c505639b50713160f2634bc7d12c44a47e167a852e9745aa716ba8e44cc4"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/followers-teleport-too.pw.toml"
-hash = "c9497a18ed577280959044e1ea054904b877671ea3b2e65b11e035c9cf161c17"
+hash = "51b8f32efa55c01cf919563c059467f8af578aaadb854eec5fc2aa984cb61853"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "70c86305db3870ebb29d735315dc0ced9b138fb713362d65030de26211d7de35"
+hash = "75f4c008a487b58ff4e96085e4c7357d04d78e8e3e3689f71b7cd4389dbeeeb7"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-campfire.pw.toml"
-hash = "e85f6947159f6a6bd56209f48116d0f156267bbd514744e16f9ca74f670d9c4a"
+hash = "38a63fb278b3cb4e91fa592240f7555a6c5798bb1648527fb6b7cf763c976036"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/ice-prevents-crop-growth.pw.toml"
-hash = "66267a7a27c9d6424887a419b3a44ec94b92b7506e0eb423fa2b27e6ce05acba"
+hash = "668266e4b01011821b9dfc3dd154fd6752af39f2822b7624191e1f6aa87130cf"
 metafile = true
 
 [[files]]
@@ -452,12 +452,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "6a246ebc26087cf6b91289857e8f26477bd5e2dcc7d037531f54129eed71de2e"
+hash = "231afd59f1962780e25bcd4065cb7a4ed9cee5ee46dae8f66d1a9d79c1386e87"
 metafile = true
 
 [[files]]
 file = "mods/mineral-chance.pw.toml"
-hash = "abdf5ede82902d9197009404c085ebb27cc2b4ced676f0e598c66df354794950"
+hash = "f377f7f2c3cbe2ab229569090f079d1f7f56ec503956ed46165f6a7722fe9456"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "7fa3f2f798b04f20573d7b517aa582a9bd211049ebd1335863338cf4319b7fcc"
+hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "5f0ab12bbff6195dd3c445ab1aadd2bccd71123eba5dc9512660524d9cc5c393"
+hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "effb67288c0b253f8c0aec25505547059d70e066ca640cbc52e5fdfbe1686679"
+hash = "7a144f684d8769bbcd960b94d37ac250c4925f90adedfc74ce9848baa7bc2cc1"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
-hash = "53f4ec5eb61aaad5c733acec914171c3bae5e40989e3a66b111eed7aa8102514"
+hash = "413535e11a2d752fb77e52f04ce24944aa7b97dc658f74b2fcd83f4d13837618"
 metafile = true
 
 [[files]]
@@ -687,12 +687,12 @@ metafile = true
 
 [[files]]
 file = "mods/villager-names-serilum.pw.toml"
-hash = "738220ab4bc5377128f107b836feaa4fadb276e1f33f702f510dbd727ede9ac2"
+hash = "a235940faf1631e6baaf5647865126fa28229a85853027d7769406456a6c6ed1"
 metafile = true
 
 [[files]]
 file = "mods/visible-traders.pw.toml"
-hash = "8d96d3937584ae78ca713da0b20284f666c66c5074259f4c6fe3ade6e0526e8d"
+hash = "5d3eb4c33ee3b5b9d77d775e18aa40efa11440567f0aa9aae9cf830b36803469"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "83d2b81250708266abe1d8e41d07d7b6e5a27a49062789491d2855d67cc94e12"
+hash = "a28eee797fa074ee2a7e056bf24d5dd9c9df2ef20dfca713f167d160a0fad9af"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "4de475f96daa72a85f5c12cf533cd4b7a52a0e8e4d991f7e66952fcd0e1724fe"
+hash = "984f9a7a868ace028c9817298563368547b3b52f58162c31eeae673698cb95e7"
 metafile = true
 
 [[files]]

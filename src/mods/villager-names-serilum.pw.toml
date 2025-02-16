@@ -1,13 +1,13 @@
 name = "Villager Names"
-filename = "villagernames-1.21.1-8.1.jar"
+filename = "villagernames-1.21.1-8.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/WPsLTKwG/villagernames-1.21.1-8.1.jar"
-hash-format = "sha1"
-hash = "19a7d7a236b16ab4857d7a3f2925b0d55b5d5f59"
+url = "https://cdn.modrinth.com/data/gqRXDo8B/versions/MTjxRIUz/villagernames-1.21.1-8.2.jar"
+hash-format = "sha512"
+hash = "8344c93a58fd5ffcecaf26516af7c91e357c7842bf43e4f66096bbe4b31129ca0fd1795562349a8cc91bf5eb15ca3bd76151cf12c9ad57cdde257807a4cd9921"
 
 [update]
 [update.modrinth]
 mod-id = "gqRXDo8B"
-version = "WPsLTKwG"
+version = "MTjxRIUz"
