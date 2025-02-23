@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "79659a9d52c19ad0c56771356fe9ca457e20f7636894695a2b7a9609ab21720f"
+hash = "1823762f21453e83add1bb16b700401d811dbb0a2cbaf76bd63ded94ff03127f"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "42f218e9224754a2d344f584433b43b67b7c0400aca3feba07cd344a1ca228ae"
+hash = "f5904550fc1141e81b6f0333cbb252816b3c13459b7a08c317d0259fddc1f8c4"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bac418be4f003dc98ecacaac516120320f02f3eceef0541989bc98f89fc8608"
+hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "12ccc252376279689c9f3073f55bb8685ccd1c5f0c435b96c89e71d1b4396c72"
+hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bc213d7a99082681c3b76ec0a08d2c7b697eff9327c314497b52e64bc7d9d78d"
+hash = "cbf6e68bef5fab8963274c8637e81366e1f1ddf8c59b7cc81181e2928358ee43"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "231afd59f1962780e25bcd4065cb7a4ed9cee5ee46dae8f66d1a9d79c1386e87"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "e26dfa7dce4e56acb5d12d9ed2fdebabf7ce9c27520c67747fcf56355f800a4f"
+hash = "58068fc944b72103a0ed0b46e2d645b852852f9d3d03eb4c52c1b867498b39ef"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "b9a257cc1a5488a7f95cea6e78048986df5984daf8419171d2374207c71a8c02"
+hash = "e1b7229154471533e62bc9d71e74300b6f6eb290efeedeb9480cde01336388de"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "545b2600a4734f4858661cceb3e696e86c366d81793d4733a49e2ff079a15963"
+hash = "b7ee2bef91899b2e8a291862eeaea40c5b0d268f7e8ee161701f4cb5d55aea0a"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "1729936f95a8636112ac9cc24e69618a5109356dfd0b3728a7eeffc7c3371d7a"
+hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/sticky-enchanting-lapis.pw.toml"
-hash = "413535e11a2d752fb77e52f04ce24944aa7b97dc658f74b2fcd83f4d13837618"
+hash = "0a521500b6c149af89fdd33e591388b88625809ad14ee91f420875eeba216979"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrastorage.pw.toml"
-hash = "deb6db0b65039bde6bae45347cf3b9fcb206a55ce6516167a85a0c9128c3a76d"
+hash = "b386d9b846416e06c59cd6793d53abf2bbfc8318251e6d9ff417e1493939701a"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "7bf3eeb3aa4a6520153143deaabfd71ee8df80080409ca6787e10d6df2e9a6f6"
+hash = "1807fbe474298e2ef5bab6cf77187f01017c61166fc57c335b26d9217d8b2172"
 metafile = true
 
 [[files]]
