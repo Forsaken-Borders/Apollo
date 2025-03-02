@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1823762f21453e83add1bb16b700401d811dbb0a2cbaf76bd63ded94ff03127f"
+hash = "89794113ff010e9a39adfc25e377007a5bc02baf05ece63090e183bf400d25a5"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "e726d8635950706f0a0810f24a96d10ac730b5521a9c700a7b9870743131a33b"
+hash = "c22ff8ad5796ef630358535de81b8127ff33d3d022ba1e0c84e5ef4e6584d6d9"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "f5904550fc1141e81b6f0333cbb252816b3c13459b7a08c317d0259fddc1f8c4"
+hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "53961f9af9c645de525e0598f3f1c5cb0ebc81f98c6b17a479ccc1b9f851a593"
+hash = "72ba59908f362d1e954bf0dd79d190e72b31ac1ce221471317902c6c60956e06"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "810502d11bcaa9ef80bb54185880131ebabbdd208f40cd1f7541ee4643c71749"
+hash = "993f416c1bfa39d149c045d94eab69b4c6c8d171c4cbc4df4cff572bae298358"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9cd1f164764a1ad176682b8d57815c7c0b8dc5f837c542d42bc1192aec33ff83"
+hash = "b7e4ce4485ede1049ffdb62a7c6e7213a8903a0d19f6b567e8b4167b0425dced"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "31824b27e7cfef5ff4091fdb37cce9e42be93dbbef6610874ed7b7158d44fd08"
+hash = "7d600469b10b142d579f7681be7c07243b489ffea7ca4d7a20b7789e72b881d5"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "2374bd284f2e3f26580275adf7fde6562b946432b567726bf0c8b7638e19d57d"
+hash = "f7b3e9a29cdc781c2ec5be4e9d4a6971eaf30b94ca3f7ae7e1d432300c8fbcc0"
 metafile = true
 
 [[files]]
@@ -727,12 +727,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "190d9fd976e99bbb9ba1b52198baf70244756f21d39ff6ba91c235583a0d1209"
+hash = "b2e559bf66f44288db486503e72c61b3eb0f3bcb5a61a7a236918573ec13561a"
 metafile = true
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
-hash = "4ad21f1109322b61201533d24d2557661d0f1d9800c093c51d7158e5bc034961"
+hash = "6860feee22f3967a3d76d8e502ca9fdeafd3b29a2b38d8122c6fd86a8f280c3e"
 metafile = true
 
 [[files]]
