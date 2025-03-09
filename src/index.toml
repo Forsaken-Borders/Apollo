@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/a-good-place.pw.toml"
-hash = "0d5b9bdb1664bce522d23a6cd9a854a237b0e4d84d62b7ab78c38b906ed2a4a1"
+hash = "9b2293b7e3b1b75968e7b3a644b9d0f4669bc1a79131c5098d9fdae72a4e6296"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "c22ff8ad5796ef630358535de81b8127ff33d3d022ba1e0c84e5ef4e6584d6d9"
+hash = "350ca6a0cd734ca31fcd08e18fcadf0522b373e1f738fe6706e238a1822d7d2a"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "874f578662fd07d02038e7d31e475ed9e1bbda2be31d5067cba21440289e68d8"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaltracker.pw.toml"
-hash = "0214d44c9786bfd4329a33a0d896cbc024674d0904dbe08336b7d48e27312fe2"
+hash = "41bdfdd4580268eb5d257dc0e784effa90bf940482e150a4375b15da1a965fde"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "75f4c008a487b58ff4e96085e4c7357d04d78e8e3e3689f71b7cd4389dbeeeb7"
+hash = "850257bd60827fd3ddf548aef777caf20435543231f5d4fff51d5869854b7972"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fa1dfc9701b20f4c1b248ac90aed529994d7d6e88b4a1d1bbd23fe692d3576f1"
+hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "18cb7175c008b0abc8e60875504d800ed3c00893225b25400031e7b52f3138d8"
+hash = "6f4665f1684aed12b53927753b4f7e15e57ed2cd81ace6db227f5dc704841c2d"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "4c8868f5a6e947f48d8d90d8e9a19ee349b3882da09ff0eb8b3b2c39545cfebf"
+hash = "67a8e6384e83bdd773822fa894542f9b1e7373bb2fc10196f739f914702c6243"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "58068fc944b72103a0ed0b46e2d645b852852f9d3d03eb4c52c1b867498b39ef"
+hash = "ead36c8724fd6d64869769a63efc4e75bbca42687e800d15788e10a0dec23543"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/animated-items.pw.toml"
-hash = "6860feee22f3967a3d76d8e502ca9fdeafd3b29a2b38d8122c6fd86a8f280c3e"
+hash = "ba5dcd71dd9e075a20e0229edf807bcf14e54b62b7624fd47397dae6b7369787"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "e02de790490a2b1a9da31aa8b0f55517c6186bec39d42d269cd899091f30f7c6"
+hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "984f9a7a868ace028c9817298563368547b3b52f58162c31eeae673698cb95e7"
+hash = "ce2d08eee941ab5f68409acd583edb905b86e81b4a23cd5e8de0a99daefbef9f"
 metafile = true
 
 [[files]]

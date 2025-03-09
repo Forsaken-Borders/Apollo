@@ -3,11 +3,11 @@ filename = "a_good_place-1.21-1.2.5-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BwPeriwJ/versions/t4VRrRzx/a_good_place-1.21-1.2.5-fabric.jar"
-hash-format = "sha1"
-hash = "ecf271f2d10016a720c8c5c333d2541bf8e9a231"
+url = "https://cdn.modrinth.com/data/BwPeriwJ/versions/8DTxQ4ue/a_good_place-1.21-1.2.5-fabric.jar"
+hash-format = "sha512"
+hash = "23fdaf3477563e1f2b0fdd9ea60084f5a3776d3e206a6d600bdc7b973510afc05f43daa658de398b22033ce5e04e1b3f9b977d2269e04b319f1b7821d715009a"
 
 [update]
 [update.modrinth]
 mod-id = "BwPeriwJ"
-version = "t4VRrRzx"
+version = "8DTxQ4ue"
