@@ -1,13 +1,13 @@
 name = "Dimensional Tracker"
-filename = "dimensionalTracker-1.4.0.jar"
+filename = "dimensionalTracker-1.4.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/24hKQjf7/versions/Su0E15xk/dimensionalTracker-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/24hKQjf7/versions/F2UuL5Cw/dimensionalTracker-1.4.1.jar"
 hash-format = "sha512"
-hash = "029460c5f04541e744c1c49f6bcb8523906a89889a9c4ac9cd3ef3637c411a0868f05135b64a33f55179b3ef78d70edb461f34ced337c900d1a3f6cd5da31e89"
+hash = "cb9705eb3a1c32a09f23e5e73ccd91a4aaf0f45a04debb93209b4ac701ae263dca8ac9d7d2f6911c1c2bc543dd913d859feaec38bf4edc3bf5d9638abfbc902a"
 
 [update]
 [update.modrinth]
 mod-id = "24hKQjf7"
-version = "Su0E15xk"
+version = "F2UuL5Cw"

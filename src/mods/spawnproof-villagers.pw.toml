@@ -1,13 +1,13 @@
 name = "Spawn-Proofed Villagers"
-filename = "spawnproof-villagers-1.0.0+1.19.4.jar"
+filename = "spawnproof-villagers-1.1.0+1.19.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/SsODNqug/versions/NHqgU2nU/spawnproof-villagers-1.0.0%2B1.19.4.jar"
-hash-format = "sha1"
-hash = "57912d215352e9d0faea0ca9e889f523820defde"
+url = "https://cdn.modrinth.com/data/SsODNqug/versions/RbindaLf/spawnproof-villagers-1.1.0%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "f930e112f9ffbff016feb0e18e4510b713ca36bf4ecd56282eb947bdcb1d87d7edc4d79fbca3f087d1101bc5922c452e88c3a4c6c3692a35171d9fe34484f07f"
 
 [update]
 [update.modrinth]
 mod-id = "SsODNqug"
-version = "NHqgU2nU"
+version = "RbindaLf"

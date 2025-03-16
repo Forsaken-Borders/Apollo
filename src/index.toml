@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/a-good-place.pw.toml"
-hash = "9b2293b7e3b1b75968e7b3a644b9d0f4669bc1a79131c5098d9fdae72a4e6296"
+hash = "21274e0ad1dba39400ca748b092c3782166000dc3906a14833c74ab6c02673ef"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "c36c3ef1bf763c568e5caba8f4db7f1490db9c85ed561e226cab8b2327cf0284"
+hash = "d67b69143bbdc13d45e6d3033f3875bec3d28276f644c91391f5ce5ce9b78b76"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/coroutil.pw.toml"
-hash = "6be8fb59d83334f347c981444e7fbb81686bf3530f49436d6bc3a9a18e2dd772"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
 metafile = true
 
 [[files]]
@@ -217,12 +217,12 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaltracker.pw.toml"
-hash = "41bdfdd4580268eb5d257dc0e784effa90bf940482e150a4375b15da1a965fde"
+hash = "2b958cd4b54e346e1a531785ba0a0e1202495a434d8e09aef2942251a90a99c3"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
+hash = "8e81c8576de0800f6a1654fe7c9020a4ba334e46bdcc47d884f9f3c09a35cf9d"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "850257bd60827fd3ddf548aef777caf20435543231f5d4fff51d5869854b7972"
+hash = "300d420282a1bba3663d3a9fcaf0841c0aff6c22c4ec1d56bcf8cde38c784ca0"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cbf6e68bef5fab8963274c8637e81366e1f1ddf8c59b7cc81181e2928358ee43"
+hash = "972db8c2fec6fb2f3545554062d4cd19364778e30d8f079221fe0d459efa8517"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+hash = "de69555290a44328b84aa51aa404de093588ae36ba656a74729453fe66323f2b"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b7e4ce4485ede1049ffdb62a7c6e7213a8903a0d19f6b567e8b4167b0425dced"
+hash = "20296ad2a5cef33be0bf261a4d4468ba56a3fe989229fd529f8c2264e34bb4e5"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawnproof-villagers.pw.toml"
-hash = "6f7a3c03ba67576391cefa29c66d566035d05d71b5ddbe2312109389b2687364"
+hash = "34b169008406a86531ab67ae777355e6ff23a58e24f9a83beecd24a27bd72e7e"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "f7b3e9a29cdc781c2ec5be4e9d4a6971eaf30b94ca3f7ae7e1d432300c8fbcc0"
+hash = "bfd7805625baba6c5f6ea4e6fcba7a10a08eb2b928adc5bb6947bb9fffe3695e"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a28eee797fa074ee2a7e056bf24d5dd9c9df2ef20dfca713f167d160a0fad9af"
+hash = "374f0436bbbee517b5fbc976b226aa097b1733551850b8c880bf68e6563b18f9"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "fcf82349376d262a92a072501f628782dab401720b1225cf8b3cc9e39ce56413"
+hash = "767a7395ce84c5affc26fcc2cf8266e88c15c12baf9587fa92627ef2d2024a7d"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "597855edd33ebccfdf3aea7b3f68092d4c09182a2478807d573dc60ed5ff3109"
+hash = "e439eec55400be4a7d2b7434239a1a04e769c65a8e3749857dbdcb272656a610"
 metafile = true
 
 [[files]]
