@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "89794113ff010e9a39adfc25e377007a5bc02baf05ece63090e183bf400d25a5"
+hash = "d819f0dfea4e0d40cf7d3d699e722f24912c0ea81950eeac3377786084500f08"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "68452d7f7f35fd0857c2732c191347a37d4749180d299b2eba48350503a9b54e"
+hash = "b573eebd2b740793e29e8431068878e47280a7c91980db509de65f6490956280"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe95430d433104d44c741c22d8f4d0db4678756311acacccddec49e3a39a4091"
+hash = "a19f6561d4d952aaf56c494326f4c59b0f276ab2f42f119e99ffb6fb62e7e7c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d4ebde657a2201455a13405b549eb06a272171eaf399ff1c9928a5df96600283"
+hash = "957f570521fb0b9bb3cbfc01e729b80a733cc245016b1e9724f5c9f923b6b3b0"
 metafile = true
 
 [[files]]
@@ -557,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "20296ad2a5cef33be0bf261a4d4468ba56a3fe989229fd529f8c2264e34bb4e5"
+hash = "fb8c82bd41ae3eccb939cc7dae2d805171d7575ccfc6788591e96ab4097655a0"
 metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "ead36c8724fd6d64869769a63efc4e75bbca42687e800d15788e10a0dec23543"
+hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "bfd7805625baba6c5f6ea4e6fcba7a10a08eb2b928adc5bb6947bb9fffe3695e"
+hash = "4a32c6177b7d1d3934e09a73bc47f0669a1233b73c8691910b8839c3d523448b"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "8bbf5cc48030422cc1ce318d54dcc4671a1530556c544dce255ef9d232815b49"
+hash = "15ec43924ee53b29e4206f94c576743f6d6b1f10e57a926123e7f3368bfac0ea"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b2e559bf66f44288db486503e72c61b3eb0f3bcb5a61a7a236918573ec13561a"
+hash = "195ecb321be0a68f2409abc326e7117a163ab734aa0f5bce08c0aec82bbf0a9d"
 metafile = true
 
 [[files]]
