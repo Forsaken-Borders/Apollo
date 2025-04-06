@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f69bd89abe6af49dfc663fafab95082098e75d6959b775c9b4364db9c579a5f0"
+hash = "1f4c0d25fb2642923bab7a2d169e6dad7d826adf503ed8fbd056f66ee42e9d42"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "8a522f2cac2e3e4df25a27e34339649ab6394bc0e2cb875280d38c642b33431e"
+hash = "128d9dfd2156ffa54cea7621d3c3c2ac42d9865b3363996c08c70c5a52af98d0"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "350ca6a0cd734ca31fcd08e18fcadf0522b373e1f738fe6706e238a1822d7d2a"
+hash = "db68b56c82a06ff8b5b4a1149669a73044b95acfc133b5f0a83c93ba6800354c"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
+hash = "346c69a01085479b5301c1968cce7bb12cbb8f2ddc73a91bef8dcb439d53ef88"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "eb4c5f7faa6349da2b520094d2a2635e03e8ff305076e7ac76588d1e2183849b"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2a6591e61b760952cad4973364d1f475417cae762a609fb660169ea000ccaf69"
+hash = "f0435da2609ad9ad6d39b0804b3b636a1fe389fdfb5b0e61a69a245d23efbad7"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8e81c8576de0800f6a1654fe7c9020a4ba334e46bdcc47d884f9f3c09a35cf9d"
+hash = "6adf694696d6e82f3a08ae295a54697b4f6c14c02ebfd3978eb9017ffbee50af"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "d6e9c6d47f82d0707af224d319bb95f34b03adee14b8769de3a972e400386d95"
+hash = "dd5969af31c51cc8c3d2efbe2b57e85f867c4644a8092fdc088ae92ae62e4ffb"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "79a034d9dc8a2cb62a9fcd64c2871e081291a264822da07675a3ee749b04b6eb"
+hash = "0aa27cfe48f3b4a1a485e6fddeb5d806301204130ac51a1352abc10cb05ca1aa"
 metafile = true
 
 [[files]]
@@ -607,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7d600469b10b142d579f7681be7c07243b489ffea7ca4d7a20b7789e72b881d5"
+hash = "a0882efec4154408daa410077e66293a8da4a8ffaf1610fdd4209eae5bc4d729"
 metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "7a144f684d8769bbcd960b94d37ac250c4925f90adedfc74ce9848baa7bc2cc1"
+hash = "01963f8c6ca19d5bcbfd53305492398b20be2df251fd60c2d3cbfd539c669357"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "2c242048726e82d36863b81ecbaa342328bb2929dc82da2f573d83b9f0711505"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "4a32c6177b7d1d3934e09a73bc47f0669a1233b73c8691910b8839c3d523448b"
+hash = "ccc7c2395b876bb70addd8b137945ecc9d9af6283e7bc2e31904b93c60a206f0"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "15ec43924ee53b29e4206f94c576743f6d6b1f10e57a926123e7f3368bfac0ea"
+hash = "898bfffdfcc96c8763c5a6db037f98b248bfd90f5d8aa7b8637ff820a337df8a"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "40fdb136823164d1039287e7c9c24c003a3f301b4fd144b4585bc9e8065446bb"
+hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
 metafile = true
 
 [[files]]
