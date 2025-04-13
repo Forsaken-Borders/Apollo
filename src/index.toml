@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "1f4c0d25fb2642923bab7a2d169e6dad7d826adf503ed8fbd056f66ee42e9d42"
+hash = "5041d4be9d64017c7891f46878b7fa0d528c277e45c1d5e6be74b22abead7028"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "955bb0f19b8da0ac72a5f8b9e014fd2e0c15647fb129542791f47bbeb26fef7e"
+hash = "9d1cbb1985de93e2ee506a3aa7a36b4489a35a735ea2c4e090bbf58b7cc29b09"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "db68b56c82a06ff8b5b4a1149669a73044b95acfc133b5f0a83c93ba6800354c"
+hash = "096a03591db337155ea3ed28b35addff2dd62d453807dd070aefb098499be42c"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "dd5969af31c51cc8c3d2efbe2b57e85f867c4644a8092fdc088ae92ae62e4ffb"
+hash = "3ac8b3625686b3516a38391438c1d66d35306599eebac2e55070f1c100d8cf8f"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f56578b8a2cf2de8d125e02262b7bcf0adcbc0498bf54886cee5e393689459f1"
+hash = "f5dd989a0235c1e8200a981c9c33c8f6a1201e66f4b2bcf4be22791d213a0c9d"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
+hash = "d2eef785df399c7b45f20ecc3d07e1749b4bff2b2f87dc1c47d3a339996569c2"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
-hash = "0b13a6bc0eb7d984dfb7150ad1e82ebf39d651ed01522e5f34c970f3efe8729f"
+hash = "5552f85e168d758f480391f7dc1ebcec0060bfbb960b9e4bbccee6ee8c74e87b"
 metafile = true
 
 [[files]]
@@ -627,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "810c95d1b25f37e995427d68a3d1b1bc2d69d172896d8a36cb3dc9a71fa2429f"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
